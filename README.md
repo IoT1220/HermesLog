@@ -112,8 +112,8 @@ Preference-tuning/
 └── vllm_sample_offline.py
 ```
 
-``` 
-  Knowledge Distillatio
+```
+Knowledge Distillation/
 ``` 
 
 ## 🔗 Links
