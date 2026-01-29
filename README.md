@@ -35,29 +35,24 @@ data_{}.npy
 
 ## 📁 Icore code 
 
-1. **Data loading class**
+1. **Prompt-tuning**   
+
 ```bash
-data_loader.py
+claude_zeroshot-cot.py
+mistral_fewshot-cot.py
 ```
 
-2. **Data loading, adapting to the docker simulation environment**
+2. **Preference-tuning**
 ```bash
-data_loader_docker.py
+config.py
+vllm_sample_offline.py
+make_preference.py
+run_train.py
 ```
 
-3. **Entry function for the FSLog in the docker environment**
+3. **Knowledge Distillation**
 ```bash
-docker_fed_bert_main_semi-supervised.py
-```
-
-4. **Function for serial simulation FSLog entry**
-```bash
-fed_split_main.py
-```
-
-5. **FSLog model class**
-```bash
-transfeomer_fed_bert.py
+XXX.py
 ```
 
 ## 📦 Installation
@@ -66,48 +61,56 @@ transfeomer_fed_bert.py
 conda create --name <env> --file requirements.txt
 ```
 
-## 🚀 Quick Start
-
-```bash
-
-
-# docker simulation
-docker network create --subnet 192.168.0.0/16 --gateway 192.168.0.1 fednet
-docker pull pytorch/pytorch:1.5-cuda10.1-cudnn7-runtime
-
-docker run -it --gpus all -v xxx:/workspace --net fednet -p 12000 --name fed0 pytorch /bin/bash
-docker run -it --gpus all -v xxx:/workspace --net fednet -p 12000 --name fed1 pytorch /bin/bash
-docker run -it --gpus all -v xxx:/workspace --net fednet -p 12000 --name fed2 pytorch /bin/bash
-docker run -it --gpus all -v xxx:/workspace --net fednet -p 12000 --name fed3 pytorch /bin/bash
-docker run -it --gpus all -v xxx:/workspace --net fednet -p 12000 --name fed4 pytorch /bin/bash
-docker run -it --gpus all -v xxx:/workspace --net fednet -p 12000 --name fed5 pytorch /bin/bash
-
-
-# Serial simulation experiment
-cd code
-python fed_split_main.py
-
-
-# Docker simulation experiment
-cd code
-export MASTER_ADDR=192.168.0.2
-export MASTER_PORT=8888
-export WORLD_SIZE=3
-export RANK=xx
-python docker_fed_bert_main_semi-supervised.py
-```
 
 
 
 ## 📁 Project Structure
 ```
-FSLog/
+KDLog/
 ├── code/               # Icore code (SL-Bert, FL-EMA, docker)
 ├── data/               # Input logs
 ├── requirements/       # Create an environment
 └── README.md           # Project description
 ```
 
+```  
+ Prompt-tuning/
+├── claude_zeroshot-cot-stage1.py
+├── data
+│   └── output.json
+├── mistral_fewshot-cot-stage2.py
+├── monitor_gpu.sh
+├── output-stage1
+│   ├── claude.log
+│   └── claude_results.json
+├── output-stage2-fewshot-cot
+│   ├── mistral.log
+│   └── mistral_results.json
+├── README.md
+├── test_case_id.txt
+└── tree.txt
+```
+
+```
+(base) ➜  dataset ls
+claude_zeroshot-cot.py            output-stage2-fewshot-cot
+data                              output-stage2-fewshot-nocot
+mistral_fewshot-cot-stage2.py     output-stage2-zeroshot-cot
+mistral_fewshot-nocot-stage2.py   output-stage2-zeroshot-nocot
+mistral_zeroshot-cot-stage2.py    README.md
+mistral_zeroshot-nocot-stage2.py  test_case_id.txt
+monitor_gpu.sh                    tree.txt
+output-stage1
+```
+
+```  
+Preference-tuning/
+├── config.py
+├── vllm_sample_offline.py
+├── make_preference.py
+├── run_train.py
+└── vllm_sample_offline.py
+```  
 
 
 ## 🔗 Links
@@ -205,31 +208,9 @@ FSLog/
 
    # Knowledge Distillation
 
-   # Project Structure
 
-   ## Prompt-tuning
-├── claude_zeroshot-cot-stage1.py
-├── data
-│   └── output.json
-├── mistral_fewshot-cot-stage2.py
-├── monitor_gpu.sh
-├── output-stage1
-│   ├── claude.log
-│   └── claude_results.json
-├── output-stage2-fewshot-cot
-│   ├── mistral.log
-│   └── mistral_results.json
-├── README.md
-├── test_case_id.txt
-└── tree.txt
 
-(base) ➜  dataset3 ls
-claude_zeroshot-cot-stage1.py     output-stage2-fewshot-cot
-data                              output-stage2-fewshot-nocot
-mistral_fewshot-cot-stage2.py     output-stage2-zeroshot-cot
-mistral_fewshot-nocot-stage2.py   output-stage2-zeroshot-nocot
-mistral_zeroshot-cot-stage2.py    README.md
-mistral_zeroshot-nocot-stage2.py  test_case_id.txt
-monitor_gpu.sh                    tree.txt
-output-stage1
+
+
+
 
