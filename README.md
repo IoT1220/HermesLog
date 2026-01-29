@@ -124,11 +124,10 @@ Knowledge Distillation/
 
 
 
-# Preference-tuning
+
 
 ## 重要文件
 
-所有文件都在`/home/xuting/2.orpo`文件夹下
 
 1. 代码
 
