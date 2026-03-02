@@ -96,7 +96,7 @@ output-stage1
 Preference-tuning/
 ├── config.py
 ├── vllm_sample_offline.py
-├── make_aligned course training.py
+├── make_aligned_training.py
 ├── run_train.py
 └── vllm_sample_offline.py
 ```
