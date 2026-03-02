@@ -8,7 +8,7 @@ HermesLog is a novel cloud-edge collaborative diagnosis framework. It introduces
 - **Fault-Oriented Log Filtering and Reasoning (FOLFR)**:
 This module extracts diverse fault cases from edge logs via two components. The clustering module groups semantically similar logs using DBSCAN and selects representative samples to form compact sequences, which are then partitioned into cohesive cases based on temporal gaps. For fault identification, the cloud model performs four-stage AutoCoT-Reasoning on suspicious cases to extract evidence-bound clues, followed by reasoning-driven label generation that produces transparent diagnostic results.
 
-- **Fault Identification with AutoCoT-Reasoning**:
+- **CRC-Driven Stepwise Layering for Aligned CoT-Reasoning Log Explanation （CRC-DSL）**:
 This mechanism enables knowledge transfer from cloud to edge through progressive alignment. The cloud LLM first filters high-confidence samples to build a demonstration set. A medium-sized model then compresses long reasoning chains into compact triplet representations. Edge small models learn through three alignment stages—label, feature, and reasoning chain—using curriculum learning. After alignment, they achieve autonomous diagnosis, performing real-time screening locally with traceable explanations while escalating uncertain cases to the cloud.
 
 
