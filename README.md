@@ -1,6 +1,7 @@
 # HermesLog
 
-HermesLog is a novel cloud-edge collaborative diagnosis framework. It enables efficient fault diagnosis by leveraging large language models in the cloud and small language models at the edge while ensuring interpretability and reducing computational overhead on edge devices. The framework not only significantly lowers inference latency and cloud dependency but also preserves high diagnostic accuracy with verifiable explanations.
+**HermesLog: A Cloud-Edge Collaborative Fault Diagnosis Framework**
+HermesLog is a novel cloud-edge collaborative diagnosis framework. It introduces a medium-sized model as a cognitive relay to enable efficient collaboration between large language models in the cloud and small language models at the edge. The framework leverages cloud large models for deep reasoning on complex faults, while the medium-sized model compresses long reasoning chains into compact knowledge representations. Through a progressive layer-wise alignment mechanism, these representations are then transferred to edge small models. This three-tier architecture ensures diagnostic interpretability while significantly reducing computational overhead and inference latency on edge devices. It enables real-time autonomous diagnosis at the edge, with only uncertain cases escalated to the cloud for deeper analysis. Ultimately, HermesLog maintains high diagnostic accuracy with verifiable explanations while substantially reducing dependency on cloud resources.
 
 ## 🔍 Key Features
 - **Fault-Oriented Log Filtering and Reasoning (FOLFR)**:
