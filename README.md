@@ -60,7 +60,7 @@ conda create --name <env> --file requirements.txt
 ## 📁 Project Structure
 ```
 KDLog/
-├── code/               # Icore code (SL-Bert, FL-EMA, docker)
+├── code/               # Icore code 
 ├── data/               # Input logs
 ├── requirements/       # Create an environment
 └── README.md           # Project description
@@ -93,13 +93,15 @@ output-stage2
 ```
 
 ```  
-Preference-tuning/
+align-tuning/
 ├── config.py
 ├── vllm_sample_offline.py
-├── make_align.py
+├── make_align-stage3.py                  output-stage3-align
 ├── run_train.py
 └── vllm_sample_offline.py
 ```
+
+
 
 
 ## 🔗 Links
