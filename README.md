@@ -86,8 +86,8 @@ KDLog/
 
 ```
 (base) ➜  dataset ls
-Gpt-4o_zeroshot-cot.py                   output-stage1-zeroshot-cot
-mistral_pseudo-fewshot-cot-stage2.py     output-stage2-fewshot-cot
+Gpt-4o_zeroshot-cot.py                   output:config-stage1
+mistral_pseudo-fewshot-cot-stage2.py     output:vllm_sample_offline-stage2
 monitor_gpu.sh                           tree.txt
 output-stage2
 ```
@@ -96,8 +96,8 @@ output-stage2
 align-tuning/
 ├── config.py
 ├── vllm_sample_offline.py
-├── make_align-stage3.py                  output-stage3-align
-├── run_train.py
+├── make_align-stage3.py                  output:make_align-stage3
+├── run_train.py                          output:run_train-stage3            
 └── vllm_sample_offline.py
 ```
 
