@@ -57,7 +57,7 @@ conda create --name <env> --file requirements.txt
 
 
 
-## 📁 Project Structure
+## 🍥 Project Structure
 ```
 HermesLog/
 ├── code/               # Icore code 
