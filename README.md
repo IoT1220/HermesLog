@@ -40,7 +40,7 @@ mistral_fewshot-cot.py (MLM)
 ```bash(cloud)
 config.py
 vllm_sample_offline.py
-make_preference.py
+make_align.py
 run_train.py
 ```
 
@@ -96,7 +96,7 @@ output-stage1
 Preference-tuning/
 ├── config.py
 ├── vllm_sample_offline.py
-├── make_aligned_training.py
+├── make_align.py
 ├── run_train.py
 └── vllm_sample_offline.py
 ```
