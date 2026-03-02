@@ -12,7 +12,7 @@ This module extracts diverse fault cases from edge logs via two components. The 
 This mechanism enables knowledge transfer from cloud to edge through progressive alignment. The cloud-based LLM first filters high-confidence samples to build a demonstration set. A MLM then compresses long reasoning chains into compact triplet representations. SLMs learn through three alignment stages—label, feature, and reasoning chain—using curriculum learning. After alignment, they achieve autonomous diagnosis, performing real-time screening locally with traceable explanations while escalating uncertain cases to the cloud.
 
 
-## 📁 Key Components
+## 😖Key Components
 - **Cloud-Edge Collaborationn**: LLM in the cloud for complex reasoning and SLM at the edge for real-time autonomous diagnosis.
 - **Four-Stage AutoCoT-Reasoning Process for the Cloud-based LLM**: Four-stage AutoCoT-Reasoning ensures transparent, verifiable fault diagnosis with explicit evidence binding.
 - **Stepwise Layered Alignment for the Edge-based SLMs**: MLM bridging enables efficient transfer of complex reasoning capabilities from large to small models.
@@ -27,7 +27,7 @@ This mechanism enables knowledge transfer from cloud to edge through progressive
 ### Data storage and load:
   **Our dataset selected a total of 60 cases for cloud-based inference and fine-tuning, and these were randomly and evenly divided into three parts, which were then distributed to three edges.**
 
-## 📁 Icore code 
+## 🪗 Icore code 
 
 1. **Prompt inference and fine-tuning in the cloud**   
 
@@ -96,7 +96,7 @@ output-stage2
 align-tuning/
 ├── config.py
 ├── vllm_sample_offline.py
-├── make_align-stage3.py                  output:make_align-stage3
+├── make_align-stage3.py                  output:make_align-stage3 
 ├── run_train.py                          output:run_train-stage3            
 └── vllm_sample_offline.py
 ```
