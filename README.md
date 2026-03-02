@@ -3,22 +3,27 @@
 HermesLog is a novel cloud-edge collaborative diagnosis framework. It enables efficient fault diagnosis by leveraging large language models in the cloud and small language models at the edge while ensuring interpretability and reducing computational overhead on edge devices. The framework not only significantly lowers inference latency and cloud dependency but also preserves high diagnostic accuracy with verifiable explanations.
 
 ## 🔍 Key Features
+- **Fault-Oriented Log Filtering and Reasoning (FOLFR)**:
+This module extracts diverse fault cases from edge logs via two components. The clustering module groups semantically similar logs using DBSCAN and selects representative samples to form compact sequences, which are then partitioned into cohesive cases based on temporal gaps. For fault identification, the cloud model performs four-stage AutoCoT-Reasoning on suspicious cases to extract evidence-bound clues, followed by reasoning-driven label generation that produces transparent diagnostic results.
 
-- **Cloud-Edge Collaborationn**: Leverages large models in the cloud for complex reasoning and small models at the edge for real-time autonomous diagnosis.
-- **Structured Reasoning Process**: Four-stage AutoCoT-Reasoning ensures transparent, verifiable fault diagnosis with explicit evidence binding..
-- **Progressive Knowledge Alignment**: Medium model bridging enables efficient transfer of complex reasoning capabilities from large to small models.
-- **Interpretable Edge Autonomy**:  Small models generate compact explanations with traceable evidence, supporting trustworthy decision-making at the edge.
+- **Fault Identification with AutoCoT-Reasoning**:
+This mechanism enables knowledge transfer from cloud to edge through progressive alignment. The cloud LLM first filters high-confidence samples to build a demonstration set. A medium-sized model then compresses long reasoning chains into compact triplet representations. Edge small models learn through three alignment stages—label, feature, and reasoning chain—using curriculum learning. After alignment, they achieve autonomous diagnosis, performing real-time screening locally with traceable explanations while escalating uncertain cases to the cloud.
+
+
+## 📁 Key Components
+- **Cloud-Edge Collaborationn**: LLM in the cloud for complex reasoning and SLM at the edge for real-time autonomous diagnosis.
+- **Four-Stage AutoCoT-Reasoning Process for the Cloud-based LLM**: Four-stage AutoCoT-Reasoning ensures transparent, verifiable fault diagnosis with explicit evidence binding.
+- **Stepwise Layered Alignment for the Edge-based SLMs**: MLM bridging enables efficient transfer of complex reasoning capabilities from large to small models.
+- **Explainability Edge Autonomy**: SLMs generate compact explanations with traceable evidence, supporting trustworthy decision-making at the edge.
 - **Cost Efficiency**: Reduces cloud dependency and inference latency while maintaining high diagnostic accuracy.
-- 
+  
 ## 📄 Dataset Description
 ### This study evaluates two datasets:
-
-  - **The publicly available Aliyun dataset:** link at https://tianchi.aliyun.com/competition/entrance/531947/information.  
-
-  - **The Privacy unavailable ZTE datasets:** a proprietary dataset licensed from an industry partner, which cannot be publicly released. Access to the proprietary dataset requires authorization from the provider and a signed data‑use agreement.  
+  - **The available dataset 1:** link at https://tianchi.aliyun.com/competition/entrance/531947/information.  
+  - **The available dataset 2:** link at https://github.com/SycIsDD/LogKG.
 
 ### Data storage and load:
-  **dataset is divided into five parts, each representing the log data of an client-server, as shown in the following three files:**
+  **dataset is divided into three parts, each representing the log data of an client-server, as shown in the following three files:**
 
 - **1.The result of the log sequence after being vectorized by BERT**
 ```bash
