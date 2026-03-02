@@ -33,7 +33,7 @@ This mechanism enables knowledge transfer from cloud to edge through progressive
 
 ```bash
 claude_zeroshot-cot.py (LLM)
-mistral_fewshot-cot.py (MLM)
+mistral_pseudo-fewshot-cot.py (MLM)
 ```
 
 2. **Stepwise alignment training under cloud-edge collaboration**
@@ -87,9 +87,9 @@ KDLog/
 ```
 (base) ➜  dataset ls
 Gpt-4o_zeroshot-cot.py                   output-stage1-zeroshot-cot
-mistral_pseudo-fewshot-cot-stage2.py     output-stage2-zeroshot-cot
+mistral_pseudo-fewshot-cot-stage2.py     output-stage2-fewshot-cot
 monitor_gpu.sh                           tree.txt
-output-stage1
+output-stage2
 ```
 
 ```  
