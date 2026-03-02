@@ -1,15 +1,15 @@
 # HermesLog
 
-HermesLog is a novel federated split learning (FSL) framework. It enables collaborative training while ensuring data privacy and reducing the computational load on the client. It not only significantly lowers local computational load and privacy leakage but also preserves high diagnostic accuracy.
+HermesLog is a novel cloud-edge collaborative diagnosis framework. It enables efficient fault diagnosis by leveraging large language models in the cloud and small language models at the edge while ensuring interpretability and reducing computational overhead on edge devices. The framework not only significantly lowers inference latency and cloud dependency but also preserves high diagnostic accuracy with verifiable explanations.
 
 ## 🔍 Key Features
 
-- **FL + SL Integration**: Collaborative training while ensuring data privacy and reducing the computational load on the client.
-- **Multilayer privacy protection mechanism**: Combining feature filtering and irreversible protection techniques to effectively reduce reconstruction success and safeguard data privacy.
-- **A model-splitting (SL-BERT）**: With the server sharing the backbone of the resource-intensive transformer and clients maintaining lightweight embeddings and personalized heads to reduce local computing power load.
-- **The personalized local model via FedAvg and EMA (FL-EMA)**: Integrate component-driven log clustering with personalized fine-tuning to enhances model’s generalization and adaptability in heterogeneous environments.
-- **Modular & Extensible**: Containerized deployment demonstrates enables rapid fault localization and recovery, effectively protecting enterprise data.
-
+- **Cloud-Edge Collaborationn**: Leverages large models in the cloud for complex reasoning and small models at the edge for real-time autonomous diagnosis.
+- **Structured Reasoning Process**: Four-stage AutoCoT-Reasoning ensures transparent, verifiable fault diagnosis with explicit evidence binding..
+- **Progressive Knowledge Alignment**: Medium model bridging enables efficient transfer of complex reasoning capabilities from large to small models.
+- **Interpretable Edge Autonomy**:  Small models generate compact explanations with traceable evidence, supporting trustworthy decision-making at the edge.
+- **Cost Efficiency**: Reduces cloud dependency and inference latency while maintaining high diagnostic accuracy.
+- 
 ## 📄 Dataset Description
 ### This study evaluates two datasets:
 
