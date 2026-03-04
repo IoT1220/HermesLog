@@ -1,0 +1,2342 @@
+[
+    {
+        "part": 3,
+        "caseid": 2,
+        "content": "Power communication abnormal!  Shelf = 0, Group = B, Power-Module = 0 Power communication abnormal",
+        "label": 1
+    },
+    {
+        "part": 3,
+        "caseid": 12,
+        "content": "SFP power reached the threshold  (Interface=xgei-0/1/1/23 direction=RX,Chanel=1,Current power=-9.91, Threshold Level=low warning(-9.90))",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 17,
+        "content": "Interface status.  The interface(index=24,name='xgei-0/1/1/21') turned into protocol UP##Port down reason  Interface xgei-0/1/1/21 is down, due to Local Fault##Interface layer2 status.  The interface(index=24,name='xgei-0/1/1/21') layer2 status turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 22,
+        "content": "The crc count of interface xgei-0/1/1/35 is increased by 7",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 27,
+        "content": "STP port instance state changed.  Port smartgroup16 instance 0 state change discard->learn.##Port packet aged.  Instance 0 port smartgroup16 received packet information aged.##STP port instance state changed.  Port smartgroup16 instance 0 state change disabled->discard.",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 32,
+        "content": "SessionInfo :  [Session Up]Ld:3066/Rd:14,Protocol:STATIC ,singleHop,IfName:smartgroup11.2612,VpnId:36,Local/Peer:2409:8086:8411:A34:0:0:0:2/2409:8086:8411:A34:0:0:0:4##SessionInfo :  [Session Down For UP_RCV_DOWN]Ld:3066/Rd:14,Protocol:STATIC ,singleHop,IfName:smartgroup11.2612,VpnId:36,Local/Peer:2409:8086:8411:A34:0:0:0:2/2409:8086:8411:A34:0:0:0:4",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 37,
+        "content": "Interface status.  The interface(index=8350,name='smartgroup13') turned into protocol UP.##LACP interface active status.  The interface (index = 8320, name = xgei-0/0/0/4) turns into ACTIVE##LACP current status changed.  Smartgroup(group id = 13) turns into NON-PROTECT status##LACP interface active status.  The interface (index = 8300, name = xgei-0/1/0/4) turns into ACTIVE##LACP current status changed.  Smartgroup(group id = 13) NON-PROTECT status disappear##LACP set the smartgroup protocol down.  Smartgroup(group id = 13,active count = 0,active value = 1) can not meet the condition##LACP interface active status.  The interface (index = 8320, name = xgei-0/0/0/4) turns into INACTIVE",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 42,
+        "content": "Interface state changed.  Intf smartgroup1 in OSPFv3 process 65083, DOWN->WAITING.##Neighbor state changed.  Nbr 36.155.154.181 on intf smartgroup1 in OSPFv3 process 65083, DOWN->INIT.",
+        "label": 10
+    },
+    {
+        "part": 3,
+        "caseid": 71,
+        "content": "power abnormal  Shelfnum =0 groupid =1  powerid =2  Power malfunction alarm##Power output voltage error!  Shelfnum =0 groupid =1  powerid =2  The output voltage of the power abnormal(cur-out-volt:12)##power abnormal  Shelfnum =0 groupid =1  powerid =2  Power malfunction alarm resume##Power output voltage error!  Shelfnum =0 groupid =1  powerid =2  The output voltage of the power alarm resume(cur-out-volt:12)",
+        "label": 1
+    },
+    {
+        "part": 3,
+        "caseid": 72,
+        "content": "power abnormal  Shelfnum =0 groupid =1  powerid =2  Power malfunction alarm##Power output voltage error!  Shelfnum =0 groupid =1  powerid =2  The output voltage of the power abnormal(cur-out-volt:12)##power abnormal  Shelfnum =0 groupid =1  powerid =2  Power malfunction alarm resume##Power output voltage error!  Shelfnum =0 groupid =1  powerid =2  The output voltage of the power abnormal(cur-out-volt:11)##Power output voltage error!  Shelfnum =0 groupid =1  powerid =2  The output voltage of the power alarm resume(cur-out-volt:11)",
+        "label": 1
+    },
+    {
+        "part": 3,
+        "caseid": 73,
+        "content": "power abnormal  Shelfnum =0 groupid =1  powerid =2  Power malfunction alarm##Power output voltage error!  Shelfnum =0 groupid =1  powerid =2  The output voltage of the power abnormal(cur-out-volt:12)",
+        "label": 1
+    },
+    {
+        "part": 3,
+        "caseid": 74,
+        "content": "power abnormal  Shelfnum =0 groupid =1  powerid =2  Power malfunction alarm##Power output voltage error!  Shelfnum =0 groupid =1  powerid =2  The output voltage of the power abnormal(cur-out-volt:12)##power abnormal  Shelfnum =0 groupid =1  powerid =2  Power malfunction alarm resume##Power output voltage error!  Shelfnum =0 groupid =1  powerid =2  The output voltage of the power alarm resume(cur-out-volt:12)",
+        "label": 1
+    },
+    {
+        "part": 3,
+        "caseid": 76,
+        "content": "Power input under voltage!  Shelfnum =0 groupid =1  powerid =PWRA3 input under voltage abnormal resume##Power input under voltage!  Shelfnum =0 groupid =2  powerid =PWRB3 input under voltage abnormal alarm##Power input abnormal!  Shelfnum =0 groupid =1  powerid =PWRA3 input abnormal resume##Power input under voltage!  Shelfnum =0 groupid =1  powerid =PWRA1 input under voltage abnormal alarm##Power DropOff!  Shelfnum =0 groupid =2  powerid =PWRB1 DropOff alarm##Power DropOff!  Shelfnum =0 groupid =2  powerid =PWRB1 DropOff resume##Power DropOff!  Shelfnum =0 groupid =2  powerid =PWRB3 DropOff alarm##Power input under voltage!  Shelfnum =0 groupid =2  powerid =PWRB1 input under voltage abnormal resume##Power input under voltage!  Shelfnum =0 groupid =2  powerid =PWRB1 input under voltage abnormal alarm##Power DropOff!  Shelfnum =0 groupid =1  powerid =PWRA1 DropOff resume##Power DropOff!  Shelfnum =0 groupid =2  powerid =PWRB3 DropOff resume##Power input under voltage!  Shelfnum =0 groupid =1  powerid =PWRA1 input under voltage abnormal resume##Power DropOff!  Shelfnum =0 groupid =1  powerid =PWRA3 DropOff alarm##Power DropOff!  Shelfnum =0 groupid =1  powerid =PWRA1 DropOff alarm##Power input abnormal!  Shelfnum =0 groupid =1  powerid =PWRA3 input abnormal alarm##Power DropOff!  Shelfnum =0 groupid =1  powerid =PWRA3 DropOff resume##Power input under voltage!  Shelfnum =0 groupid =2  powerid =PWRB3 input under voltage abnormal resume##Power input under voltage!  Shelfnum =0 groupid =1  powerid =PWRA3 input under voltage abnormal alarm",
+        "label": 1
+    },
+    {
+        "part": 3,
+        "caseid": 77,
+        "content": "Power malfunction!  Shelfnum =0 groupid =1  powerid =PWRA1 SN =0 is online##Power communicate abnormal!  Shelfnum =0 groupid =1  powerid =PWRA1 SN =0 communicate abnormal alarm##Power communicate abnormal!  Shelfnum =0 groupid =1  powerid =PWRA1 SN =0 communicate abnormal resume##Power malfunction!  Shelfnum =0 groupid =1  powerid =PWRA1 SN =0 is offline",
+        "label": 1
+    },
+    {
+        "part": 3,
+        "caseid": 78,
+        "content": "Power abnormal!  Shelfnum =0 groupid =2  powerid =PWRB4 Malfunction resume##Power abnormal!  Shelfnum =0 groupid =2  powerid =PWRB4 Malfunction alarm##Power abnormal!  Shelfnum =0 groupid =2  powerid =PWRB3 Malfunction alarm##Power work abnormal!  Shelfnum =0 groupid =2  powerid =PWRB4 work abnormal resume##Power work abnormal!  Shelfnum =0 groupid =2  powerid =PWRB3 work abnormal alarm##Power abnormal!  Shelfnum =0 groupid =2  powerid =PWRB3 Malfunction resume##Power work abnormal!  Shelfnum =0 groupid =2  powerid =PWRB3 work abnormal resume##Power work abnormal!  Shelfnum =0 groupid =2  powerid =PWRB4 work abnormal alarm",
+        "label": 1
+    },
+    {
+        "part": 3,
+        "caseid": 79,
+        "content": "Power abnormal!  Shelfnum =0 groupid =1  powerid =PWRA4 Malfunction alarm##Power input abnormal!  Shelfnum =0 groupid =2  powerid =PWRB4 input abnormal resume##Power abnormal!  Shelfnum =0 groupid =1  powerid =PWRA2 Malfunction alarm##Power work abnormal!  Shelfnum =0 groupid =2  powerid =PWRB2 work abnormal alarm##Power abnormal!  Shelfnum =0 groupid =1  powerid =PWRA2 Malfunction resume##Power DropOff!  Shelfnum =0 groupid =2  powerid =PWRB2 DropOff resume##Power DropOff!  Shelfnum =0 groupid =2  powerid =PWRB4 DropOff resume##Power abnormal!  Shelfnum =0 groupid =2  powerid =PWRB2 Malfunction resume##Power work abnormal!  Shelfnum =0 groupid =1  powerid =PWRA4 work abnormal alarm##Power abnormal!  Shelfnum =0 groupid =2  powerid =PWRB4 Malfunction alarm##Power work abnormal!  Shelfnum =0 groupid =1  powerid =PWRA2 work abnormal resume##Power input abnormal!  Shelfnum =0 groupid =2  powerid =PWRB2 input abnormal resume##Power work abnormal!  Shelfnum =0 groupid =2  powerid =PWRB2 work abnormal resume##Power abnormal!  Shelfnum =0 groupid =1  powerid =PWRA4 Malfunction resume##Power work abnormal!  Shelfnum =0 groupid =1  powerid =PWRA4 work abnormal resume##Power work abnormal!  Shelfnum =0 groupid =1  powerid =PWRA2 work abnormal alarm##Power abnormal!  Shelfnum =0 groupid =2  powerid =PWRB4 Malfunction resume##Power abnormal!  Shelfnum =0 groupid =2  powerid =PWRB2 Malfunction alarm##Power work abnormal!  Shelfnum =0 groupid =2  powerid =PWRB4 work abnormal resume##Power work abnormal!  Shelfnum =0 groupid =2  powerid =PWRB4 work abnormal alarm",
+        "label": 1
+    },
+    {
+        "part": 3,
+        "caseid": 81,
+        "content": "Power abnormal!  Shelfnum =0 groupid =2  powerid =PWRB3 Malfunction alarm##Power work abnormal!  Shelfnum =0 groupid =1  powerid =PWRA3 work abnormal alarm##Power abnormal!  Shelfnum =0 groupid =1  powerid =PWRA1 Malfunction alarm##Power work abnormal!  Shelfnum =0 groupid =1  powerid =PWRA1 work abnormal alarm##Power abnormal!  Shelfnum =0 groupid =1  powerid =PWRA3 Malfunction alarm##Power work abnormal!  Shelfnum =0 groupid =2  powerid =PWRB1 work abnormal alarm",
+        "label": 1
+    },
+    {
+        "part": 3,
+        "caseid": 82,
+        "content": "Power communicate abnormal!  Shelfnum =0 groupid =2  powerid =PWRB1 SN =229020394254 communicate abnormal alarm##Power abnormal!  Shelfnum =0 groupid =1  powerid =PWRA1 Malfunction resume",
+        "label": 1
+    },
+    {
+        "part": 3,
+        "caseid": 215,
+        "content": "Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8460,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 216,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 217,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 218,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 219,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 220,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 221,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 222,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 223,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 224,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 225,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 226,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=5580,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 227,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=5580,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 228,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 229,
+        "content": "Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=5640,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 230,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8520,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 232,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 233,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8520,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 234,
+        "content": "Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8460,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 235,
+        "content": "Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=5640,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 236,
+        "content": "Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8460,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 237,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 238,
+        "content": "Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8460,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 239,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8520,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 240,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 242,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 243,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8520,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 245,
+        "content": "Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8040,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 246,
+        "content": "Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8040,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 247,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 248,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 249,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 250,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=5580,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 251,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 252,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 253,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 254,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=5580,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 255,
+        "content": "Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=5640,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 256,
+        "content": "Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8040,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 257,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 258,
+        "content": "Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8040,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 259,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 260,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 261,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=5580,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 262,
+        "content": "Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=5640,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 263,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 264,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 265,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 266,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=5580,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 267,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8520,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 268,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8520,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 269,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 270,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8520,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 271,
+        "content": "Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8460,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 272,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 273,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8220,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 274,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=5580,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 275,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8520,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 276,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 277,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8520,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 278,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 279,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 280,
+        "content": "Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=8460,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 281,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 282,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 416,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 3) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 417,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 2) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 418,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 1) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 419,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 420,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 3) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 421,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 2) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 422,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 2) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 423,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 424,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 4) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 425,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.8085##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.8085##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.8085##Receiving Optical Power(dBm) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <50-description> 15min low alarm occur. Low thres is: -16.0000, current value is: -40.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.7929##Receiving Optical Power(dBm) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <50-description> 15min low alarm occur. Low thres is: -16.0000, current value is: -40.0000##Receiving Optical Power(dBm) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <50-description> 15min low alarm occur. Low thres is: -16.0000, current value is: -40.0000##Receiving Optical Power(dBm) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <50-description> 15min low alarm occur. Low thres is: -16.0000, current value is: -40.0000",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 426,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 427,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 4) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 428,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 429,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 430,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 431,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 2) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 432,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 2) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 433,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 434,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 3) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 435,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 3) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 436,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 437,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 438,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 439,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 1) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 440,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 441,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 3) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 442,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 443,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 444,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 445,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 446,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 447,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 448,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 449,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 450,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 451,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 452,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 453,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 454,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 455,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 456,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 457,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 458,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 459,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 460,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 461,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 462,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 463,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 464,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 465,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 466,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 467,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 468,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 469,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 470,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 471,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 472,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 473,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 474,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 475,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 477,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm disappear. Low thres is: 25.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm occur. Low thres is: 25.0000, current value is: 24.9804##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm disappear. Low thres is: 25.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 24.9804##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm occur. Low thres is: 25.0000, current value is: 24.9804##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm disappear. Low thres is: 25.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm occur. Low thres is: 25.0000, current value is: 24.9804",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 478,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm occur. Low thres is: 25.0000, current value is: 24.9804##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 24.9804##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 24.9804##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm occur. Low thres is: 25.0000, current value is: 24.9804##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 24.9804##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm occur. Low thres is: 25.0000, current value is: 24.9804##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm disappear. Low thres is: 25.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm occur. Low thres is: 25.0000, current value is: 24.9804",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 479,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm disappear. Low thres is: 25.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm occur. Low thres is: 25.0000, current value is: 24.9804##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 24.9804##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 24.9804##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm occur. Low thres is: 25.0000, current value is: 24.9648##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm occur. Low thres is: 25.0000, current value is: 24.9804##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm disappear. Low thres is: 25.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm occur. Low thres is: 25.0000, current value is: 24.9804##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm disappear. Low thres is: 25.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm occur. Low thres is: 25.0000, current value is: 24.9804",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 480,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm disappear. Low thres is: 25.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 3) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm disappear. Low thres is: 25.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm disappear. Low thres is: 25.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm disappear. Low thres is: 25.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 4) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 25.0000##Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 2) <240-description> 15min low alarm occur. Low thres is: 25.0000, current value is: 24.9804",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 481,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 482,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/2/1/1,lane = 1) <240-description> 15min low alarm forecast occur. Warn low thres is: 27.0000, current value is: 26.9960",
+        "label": 3
+    },
+    {
+        "part": 3,
+        "caseid": 615,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 616,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 617,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 618,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 619,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 620,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 622,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 623,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 624,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 625,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 626,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 627,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 628,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 629,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 630,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 631,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 632,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 633,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 634,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 635,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 636,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 637,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 638,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 639,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 640,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 641,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 642,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 643,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 644,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 645,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 646,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 647,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 648,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 649,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 650,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 651,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 652,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 653,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 654,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 655,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 656,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 657,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 658,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 659,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 660,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 661,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 662,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 663,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 664,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 665,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 666,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 667,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 668,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 669,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 670,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 671,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 672,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 674,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 675,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 676,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 677,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 678,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 679,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 680,
+        "content": "Interface layer2 status.  The interface(index=6,name='xgei-0/1/1/4') layer2 status turned into protocol DOWN##Interface layer2 status.  The interface(index=6,name='xgei-0/1/1/4') layer2 status turned into protocol UP##Port down reason  Interface xgei-0/1/1/4 is down, due to Serdes Unlocked##Interface status.  The interface(index=6,name='xgei-0/1/1/4') turned into protocol UP##Interface status.  The interface(index=6,name='xgei-0/1/1/4') turned into protocol DOWN",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 681,
+        "content": "Interface layer2 status.  The interface(index=6,name='xgei-0/1/1/4') layer2 status turned into protocol DOWN##Interface layer2 status.  The interface(index=6,name='xgei-0/1/1/4') layer2 status turned into protocol UP##Port down reason  Interface xgei-0/1/1/4 is down, due to Serdes Unlocked##Interface status.  The interface(index=6,name='xgei-0/1/1/4') turned into protocol UP##Interface status.  The interface(index=6,name='xgei-0/1/1/4') turned into protocol DOWN",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 682,
+        "content": "Interface layer2 status.  The interface(index=6,name='xgei-0/1/1/4') layer2 status turned into protocol DOWN##Interface layer2 status.  The interface(index=6,name='xgei-0/1/1/4') layer2 status turned into protocol UP##Port down reason  Interface xgei-0/1/1/4 is down, due to Serdes Unlocked##Interface status.  The interface(index=6,name='xgei-0/1/1/4') turned into protocol UP##Interface status.  The interface(index=6,name='xgei-0/1/1/4') turned into protocol DOWN",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 815,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 816,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 817,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 819,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 820,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 821,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 822,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 823,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 824,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 825,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 826,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 827,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 828,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 829,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 830,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 831,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 832,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 833,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 834,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 835,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 836,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 837,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 838,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 839,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 840,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 841,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 842,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 843,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 844,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 845,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 846,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 847,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 848,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 10(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 849,
+        "content": "Receiving CRC packets performance.  The interface(smartgroup92) ingress FCSError ratio is 100",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 850,
+        "content": "Receiving CRC packets performance.  The interface(smartgroup92) ingress FCSError ratio is 100",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 851,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 10(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 852,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 853,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 854,
+        "content": "Receiving CRC packets performance.  The interface(smartgroup92) ingress FCSError ratio is 100",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 855,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 856,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 10(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 857,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 858,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 859,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 860,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 861,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 862,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 863,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 864,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 865,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 10(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 866,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 867,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 868,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 869,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 870,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 871,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 873,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 874,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 875,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 876,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 877,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 878,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 879,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 881,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 882,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 921,
+        "content": "STP port instance state changed.  Port smartgroup23 instance 0 state change discard->learn.##STP port instance state changed.  Port smartgroup23 instance 0 state change disabled->discard.##Port packet aged.  Instance 0 port smartgroup23 received packet information aged.",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 924,
+        "content": "STP port instance state changed  Port smartgroup27 instance 0 state change forward->discard##STP port instance state changed  Port smartgroup27 instance 0 state change discard->learn##Port packet aged  Instance 0 port smartgroup27 received packet information aged",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 925,
+        "content": "STP port instance state changed  Port smartgroup42 instance 0 state change forward->discard##STP port instance state changed  Port smartgroup42 instance 0 state change discard->learn##Port packet aged  Instance 0 port smartgroup42 received packet information aged",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 926,
+        "content": "Port packet aged  Instance 0 port smartgroup100 received packet information aged##STP port instance state changed  Port smartgroup100 instance 0 state change disabled->discard##STP port instance state changed  Port smartgroup100 instance 0 state change discard->learn",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 927,
+        "content": "Port packet aged  Instance 0 port smartgroup100 received packet information aged##STP port instance state changed  Port smartgroup100 instance 0 state change disabled->discard##STP port instance state changed  Port smartgroup100 instance 0 state change discard->learn",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 928,
+        "content": "Port packet aged  Instance 0 port smartgroup100 received packet information aged##STP port instance state changed  Port smartgroup100 instance 0 state change disabled->discard##STP port instance state changed  Port smartgroup100 instance 0 state change discard->learn",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 929,
+        "content": "Port packet aged  Instance 0 port smartgroup100 received packet information aged##STP port instance state changed  Port smartgroup100 instance 0 state change disabled->discard##STP port instance state changed  Port smartgroup100 instance 0 state change discard->learn",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 931,
+        "content": "STP port instance state changed  Port smartgroup33 instance 0 state change forward->discard##Port packet aged  Instance 0 port smartgroup33 received packet information aged##STP port instance state changed  Port smartgroup33 instance 0 state change discard->learn",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 932,
+        "content": "STP port instance state changed  Port xlgei-0/5/0/8 instance 0 state change forward->discard",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 933,
+        "content": "Port packet aged  Instance 0 port smartgroup81 received packet information aged##STP port instance state changed  Port smartgroup81 instance 0 state change disabled->discard##STP port instance state changed  Port smartgroup81 instance 0 state change discard->learn",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 934,
+        "content": "Port packet aged  Instance 0 port smartgroup81 received packet information aged##STP port instance state changed  Port smartgroup81 instance 0 state change disabled->discard##STP port instance state changed  Port smartgroup81 instance 0 state change discard->learn",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 936,
+        "content": "Port packet aged  Instance 0 port smartgroup36 received packet information aged##Port packet aged  Instance 0 port smartgroup21 received packet information aged##Port packet aged  Instance 0 port smartgroup12 received packet information aged##Port packet aged  Instance 0 port smartgroup66 received packet information aged##STP port instance state changed  Port smartgroup66 instance 0 state change discard->learn##Port packet aged  Instance 0 port smartgroup79 received packet information aged##STP port instance state changed  Port smartgroup79 instance 0 state change discard->learn##STP port instance state changed  Port smartgroup36 instance 0 state change discard->learn##STP port instance state changed  Port smartgroup21 instance 0 state change discard->learn##STP port instance state changed  Port smartgroup12 instance 0 state change forward->discard##STP port instance state changed  Port smartgroup12 instance 0 state change discard->learn",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 938,
+        "content": "Port packet aged  Instance 0 port smartgroup12 received packet information aged##STP port instance state changed  Port smartgroup12 instance 0 state change disabled->discard##STP port instance state changed  Port smartgroup12 instance 0 state change discard->learn",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 939,
+        "content": "Port packet aged  Instance 0 port smartgroup81 received packet information aged##STP port instance state changed  Port smartgroup81 instance 0 state change disabled->discard##STP port instance state changed  Port smartgroup81 instance 0 state change discard->learn",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 940,
+        "content": "Port packet aged  Instance 0 port smartgroup81 received packet information aged##STP port instance state changed  Port smartgroup81 instance 0 state change disabled->discard##STP port instance state changed  Port smartgroup81 instance 0 state change discard->learn",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 941,
+        "content": "Port packet aged  Instance 0 port smartgroup81 received packet information aged##STP port instance state changed  Port smartgroup81 instance 0 state change disabled->discard##STP port instance state changed  Port smartgroup81 instance 0 state change discard->learn",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 1065,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:17387/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb240,VpnId:77,Local/Peer:2409:8027:5000:9:0:0:0:83FE/2409:8086:8419:2CCE:0:0:0:2,SessionName:zenic_bfd_962.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1067,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:16680/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb225,VpnId:68,Local/Peer:192.168.61.45/192.168.149.130,SessionName:zenic_bfd_268.##SessionInfo :  [Session Up]Ld:17385/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb240,VpnId:77,Local/Peer:192.168.61.52/192.168.150.36,SessionName:zenic_bfd_960.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1069,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18705/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb839,VpnId:142,Local/Peer:2409:8027:5100:9:0:0:0:26FE/2409:8086:8419:6285:0:0:0:1,SessionName:zenic_bfd_741.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1070,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18705/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb839,VpnId:142,Local/Peer:2409:8027:5100:9:0:0:0:26FE/2409:8086:8419:6285:0:0:0:1,SessionName:zenic_bfd_741.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1071,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18802/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb839,VpnId:142,Local/Peer:2409:8027:5100:9:0:0:0:26FE/2409:8086:8419:6285:0:0:0:2,SessionName:zenic_bfd_893.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1072,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18705/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb839,VpnId:142,Local/Peer:2409:8027:5100:9:0:0:0:26FE/2409:8086:8419:6285:0:0:0:1,SessionName:zenic_bfd_741.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1073,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18077/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb724,VpnId:127,Local/Peer:2409:8027:5100:9:0:0:0:22FF/2409:8086:8419:3D62:0:0:0:1,SessionName:zenic_bfd_209.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1074,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:17517/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb654,VpnId:109,Local/Peer:2409:8027:5100:9:0:0:0:21FE/2409:8086:8419:3D4E:0:0:0:1,SessionName:zenic_bfd_1247.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1075,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:17517/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb654,VpnId:109,Local/Peer:2409:8027:5100:9:0:0:0:21FE/2409:8086:8419:3D4E:0:0:0:1,SessionName:zenic_bfd_1247.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1076,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:17517/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb654,VpnId:109,Local/Peer:2409:8027:5100:9:0:0:0:21FE/2409:8086:8419:3D4E:0:0:0:1,SessionName:zenic_bfd_1247.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1077,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18691/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb832,VpnId:152,Local/Peer:2409:8027:5100:9:0:0:0:23FE/2409:8086:8419:3D58:0:0:0:2,SessionName:zenic_bfd_725.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1078,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18692/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb832,VpnId:152,Local/Peer:2409:8027:5100:9:0:0:0:23FE/2409:8086:8419:3D58:0:0:0:1,SessionName:zenic_bfd_726.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1079,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18380/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb717,VpnId:123,Local/Peer:2409:8027:5100:9:0:0:0:51FF/2409:8086:8419:3C04:0:0:0:3,SessionName:zenic_bfd_2516.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1080,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:16891/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb666,VpnId:117,Local/Peer:192.168.121.32/192.168.160.161,SessionName:zenic_bfd_2174.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1081,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18314/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb693,VpnId:113,Local/Peer:2409:8027:5100:9:0:0:0:61FE/2409:8086:8419:3AAC:0:0:0:1,SessionName:zenic_bfd_2435.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1082,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18692/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb832,VpnId:152,Local/Peer:2409:8027:5100:9:0:0:0:23FE/2409:8086:8419:3D58:0:0:0:1,SessionName:zenic_bfd_726.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1083,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18314/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb693,VpnId:113,Local/Peer:2409:8027:5100:9:0:0:0:61FE/2409:8086:8419:3AAC:0:0:0:1,SessionName:zenic_bfd_2435.##SessionInfo :  [Session Up]Ld:18314/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb693,VpnId:113,Local/Peer:2409:8027:5100:9:0:0:0:61FE/2409:8086:8419:3AAC:0:0:0:1,SessionName:zenic_bfd_2435.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1084,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18464/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb940,VpnId:167,Local/Peer:2409:8027:5100:9:0:0:0:82FE/2409:8086:8419:3B5E:0:0:0:8,SessionName:zenic_bfd_358.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1085,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18373/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb972,VpnId:169,Local/Peer:2409:8027:5100:9:0:0:0:52FE/2409:8086:8419:3C18:0:0:0:3,SessionName:zenic_bfd_2507.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1086,
+        "content": "SessionInfo :  [Session Up]Ld:18382/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb718,VpnId:125,Local/Peer:2409:8027:5100:9:0:0:0:A1FE/2409:8086:8419:3C05:0:0:0:1,SessionName:zenic_bfd_2518.##SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18382/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb718,VpnId:125,Local/Peer:2409:8027:5100:9:0:0:0:A1FE/2409:8086:8419:3C05:0:0:0:1,SessionName:zenic_bfd_2518.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1087,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18382/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb718,VpnId:125,Local/Peer:2409:8027:5100:9:0:0:0:A1FE/2409:8086:8419:3C05:0:0:0:1,SessionName:zenic_bfd_2518.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1088,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18382/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb718,VpnId:125,Local/Peer:2409:8027:5100:9:0:0:0:A1FE/2409:8086:8419:3C05:0:0:0:1,SessionName:zenic_bfd_2518.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1089,
+        "content": "SessionInfo :  [Session Up]Ld:18382/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb718,VpnId:125,Local/Peer:2409:8027:5100:9:0:0:0:A1FE/2409:8086:8419:3C05:0:0:0:1,SessionName:zenic_bfd_2518.##SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18382/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb718,VpnId:125,Local/Peer:2409:8027:5100:9:0:0:0:A1FE/2409:8086:8419:3C05:0:0:0:1,SessionName:zenic_bfd_2518.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1090,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18382/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb718,VpnId:125,Local/Peer:2409:8027:5100:9:0:0:0:A1FE/2409:8086:8419:3C05:0:0:0:1,SessionName:zenic_bfd_2518.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1091,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18379/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb717,VpnId:123,Local/Peer:2409:8027:5100:9:0:0:0:51FF/2409:8086:8419:3C04:0:0:0:2,SessionName:zenic_bfd_2515.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1092,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18380/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb717,VpnId:123,Local/Peer:2409:8027:5100:9:0:0:0:51FF/2409:8086:8419:3C04:0:0:0:3,SessionName:zenic_bfd_2516.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1093,
+        "content": "SessionInfo :  [Session Up]Ld:18379/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb717,VpnId:123,Local/Peer:2409:8027:5100:9:0:0:0:51FF/2409:8086:8419:3C04:0:0:0:2,SessionName:zenic_bfd_2515.##SessionInfo :  [Session Up]Ld:16993/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb718,VpnId:125,Local/Peer:192.168.121.92/192.168.188.34,SessionName:zenic_bfd_2522.##SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18382/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb718,VpnId:125,Local/Peer:2409:8027:5100:9:0:0:0:A1FE/2409:8086:8419:3C05:0:0:0:1,SessionName:zenic_bfd_2518.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1094,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18382/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb718,VpnId:125,Local/Peer:2409:8027:5100:9:0:0:0:A1FE/2409:8086:8419:3C05:0:0:0:1,SessionName:zenic_bfd_2518.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1095,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:16882/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb665,VpnId:116,Local/Peer:192.168.121.72/192.168.160.132,SessionName:zenic_bfd_2154.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1097,
+        "content": "SessionInfo :  [Session Up]Ld:16856/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb662,VpnId:114,Local/Peer:192.168.121.62/192.168.160.36,SessionName:zenic_bfd_2108.##SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:16882/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb665,VpnId:116,Local/Peer:192.168.121.72/192.168.160.132,SessionName:zenic_bfd_2154.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1098,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:16882/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb665,VpnId:116,Local/Peer:192.168.121.72/192.168.160.132,SessionName:zenic_bfd_2154.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1099,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:19318/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb1156,VpnId:68,Local/Peer:2409:8027:5000:9:0:0:0:53FF/2409:8086:8419:3FEC:0:0:0:1,SessionName:zenic_bfd_2767.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1100,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:16592/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb678,VpnId:109,Local/Peer:192.168.121.12/192.168.162.1,SessionName:zenic_bfd_1498.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1101,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:17620/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb75,VpnId:41,Local/Peer:2409:8027:5000:9:0:0:0:51FE/2409:8086:8419:293D:0:0:0:1,SessionName:zenic_bfd_14.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1102,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:17716/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb94,VpnId:46,Local/Peer:2409:8027:5000:9:0:0:0:11FE/2409:8086:8419:274A:0:0:1:0,SessionName:zenic_bfd_796.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1103,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:17071/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb61,VpnId:41,Local/Peer:2409:8027:5000:9:0:0:0:51FF/2409:8086:8419:2B94:0:0:0:1,SessionName:zenic_bfd_1322.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1104,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:16491/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb87,VpnId:39,Local/Peer:192.168.61.102/192.168.132.65,SessionName:zenic_bfd_1388.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1105,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:17099/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb85,VpnId:41,Local/Peer:2409:8027:5000:9:0:0:0:51FF/2409:8086:8419:2CBE:0:0:0:1,SessionName:zenic_bfd_1357.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1106,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:17785/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb338,VpnId:68,Local/Peer:2409:8027:5000:9:0:0:0:53FE/2409:8086:8419:2DEB:0:0:0:1,SessionName:zenic_bfd_928.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1107,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18243/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb794,VpnId:111,Local/Peer:2409:8027:5100:9:0:0:0:31FF/2409:8086:8419:3D0C:0:0:0:1,SessionName:zenic_bfd_1191.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1108,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18248/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb796,VpnId:109,Local/Peer:2409:8027:5100:9:0:0:0:21FF/2409:8086:8419:3D12:0:0:0:1,SessionName:zenic_bfd_1196.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1109,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18240/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb791,VpnId:109,Local/Peer:192.168.121.11/192.168.170.18,SessionName:zenic_bfd_1188.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1110,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18257/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb797,VpnId:109,Local/Peer:192.168.121.11/192.168.171.18,SessionName:zenic_bfd_1205.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1111,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18257/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb797,VpnId:109,Local/Peer:192.168.121.11/192.168.171.18,SessionName:zenic_bfd_1205.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1112,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18254/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb797,VpnId:109,Local/Peer:2409:8027:5100:9:0:0:0:21FF/2409:8086:8419:3D13:0:0:0:1,SessionName:zenic_bfd_1202.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1113,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18247/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb796,VpnId:109,Local/Peer:2409:8027:5100:9:0:0:0:21FF/2409:8086:8419:3D12:0:0:0:2,SessionName:zenic_bfd_1195.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1114,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18238/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb791,VpnId:109,Local/Peer:192.168.121.11/192.168.170.17,SessionName:zenic_bfd_1186.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1115,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18293/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb645,VpnId:113,Local/Peer:2409:8027:5100:9:0:0:0:61FF/2409:8086:8419:3D48:0:0:0:2,SessionName:zenic_bfd_1241.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1117,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:17210/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb183,VpnId:72,Local/Peer:2409:8027:5000:9:0:0:0:63FF/2409:8086:8419:294E:0:0:1:1,SessionName:zenic_bfd_1752.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1118,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18268/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb640,VpnId:109,Local/Peer:2409:8027:5100:9:0:0:0:21FF/2409:8086:8419:3D44:0:0:0:1,SessionName:zenic_bfd_1216.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1119,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18268/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb640,VpnId:109,Local/Peer:2409:8027:5100:9:0:0:0:21FF/2409:8086:8419:3D44:0:0:0:1,SessionName:zenic_bfd_1216.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1120,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18268/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb640,VpnId:109,Local/Peer:2409:8027:5100:9:0:0:0:21FF/2409:8086:8419:3D44:0:0:0:1,SessionName:zenic_bfd_1216.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1121,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18268/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb640,VpnId:109,Local/Peer:2409:8027:5100:9:0:0:0:21FF/2409:8086:8419:3D44:0:0:0:1,SessionName:zenic_bfd_1216.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1122,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18268/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb640,VpnId:109,Local/Peer:2409:8027:5100:9:0:0:0:21FF/2409:8086:8419:3D44:0:0:0:1,SessionName:zenic_bfd_1216.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1123,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18287/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb644,VpnId:109,Local/Peer:2409:8027:5100:9:0:0:0:21FF/2409:8086:8419:3D47:0:0:0:1,SessionName:zenic_bfd_1235.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1124,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:17947/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb724,VpnId:127,Local/Peer:2409:8027:5100:9:0:0:0:22FE/2409:8086:8419:3D62:0:0:0:1,SessionName:zenic_bfd_209.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1125,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:17947/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb724,VpnId:127,Local/Peer:2409:8027:5100:9:0:0:0:22FE/2409:8086:8419:3D62:0:0:0:1,SessionName:zenic_bfd_209.##SessionInfo :  [Session Up]Ld:17947/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb724,VpnId:127,Local/Peer:2409:8027:5100:9:0:0:0:22FE/2409:8086:8419:3D62:0:0:0:1,SessionName:zenic_bfd_209.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1126,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18124/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb839,VpnId:142,Local/Peer:2409:8027:5100:9:0:0:0:26FF/2409:8086:8419:6285:0:0:0:1,SessionName:zenic_bfd_741.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1127,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18124/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb839,VpnId:142,Local/Peer:2409:8027:5100:9:0:0:0:26FF/2409:8086:8419:6285:0:0:0:1,SessionName:zenic_bfd_741.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1190,
+        "content": "LACP current status changed.  Smartgroup(group id = 3) NON-PROTECT status disappear##SD(Signal Degrade)  xgeiw-0/0/0/2##LACP interface active status.  The interface (index = 8343, name = xgeiw-0/0/0/2) turns into ACTIVE##LACP current status changed.  Smartgroup(group id = 3) turns into NON-PROTECT status##LACP interface active status.  The interface (index = 8343, name = xgeiw-0/0/0/2) turns into INACTIVE##The actor information carried in the received PDU changed.  (index = 8343, name =xgeiw-0/0/0/2, field ='actor_state', pkt_value =0x3, local_value=0x3f)##The physical interface  xgeiw-0/0/0/2 was UP after delay.1 times up and 1 times down.",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1191,
+        "content": "LACP current status changed.  Smartgroup(group id = 3) NON-PROTECT status disappear##LACP interface active status.  The interface (index = 8343, name = xgeiw-0/0/0/2) turns into ACTIVE##LACP current status changed.  Smartgroup(group id = 3) turns into NON-PROTECT status##LACP interface active status.  The interface (index = 8343, name = xgeiw-0/0/0/2) turns into INACTIVE##The actor information carried in the received PDU changed.  (index = 8343, name =xgeiw-0/0/0/2, field ='actor_state', pkt_value =0x3, local_value=0x3f)##The physical interface  xgeiw-0/0/0/2 was UP after delay.1 times up and 1 times down.",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1192,
+        "content": "LACP current status changed.  Smartgroup(group id = 3) NON-PROTECT status disappear##SD(Signal Degrade)  xgeiw-0/0/0/2##LACP interface active status.  The interface (index = 8343, name = xgeiw-0/0/0/2) turns into ACTIVE##LACP current status changed.  Smartgroup(group id = 3) turns into NON-PROTECT status##LACP interface active status.  The interface (index = 8343, name = xgeiw-0/0/0/2) turns into INACTIVE##The actor information carried in the received PDU changed.  (index = 8343, name =xgeiw-0/0/0/2, field ='actor_state', pkt_value =0x3, local_value=0x3f)##The physical interface  xgeiw-0/0/0/2 was UP after delay.1 times up and 1 times down.",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1193,
+        "content": "LACP current status changed.  Smartgroup(group id = 3) NON-PROTECT status disappear##LACP interface active status.  The interface (index = 8343, name = xgeiw-0/0/0/2) turns into ACTIVE##LACP current status changed.  Smartgroup(group id = 3) turns into NON-PROTECT status##LACP interface active status.  The interface (index = 8343, name = xgeiw-0/0/0/2) turns into INACTIVE##The actor information carried in the received PDU changed.  (index = 8343, name =xgeiw-0/0/0/2, field ='actor_state', pkt_value =0x3, local_value=0x3f)##The physical interface  xgeiw-0/0/0/2 was UP after delay.1 times up and 1 times down.",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1194,
+        "content": "LACP current status changed.  Smartgroup(group id = 3) NON-PROTECT status disappear##LACP interface active status.  The interface (index = 8343, name = xgeiw-0/0/0/2) turns into ACTIVE##LACP current status changed.  Smartgroup(group id = 3) turns into NON-PROTECT status##LACP interface active status.  The interface (index = 8343, name = xgeiw-0/0/0/2) turns into INACTIVE##The actor information carried in the received PDU changed.  (index = 8343, name =xgeiw-0/0/0/2, field ='actor_state', pkt_value =0x3, local_value=0x3f)##The physical interface  xgeiw-0/0/0/2 was UP after delay.1 times up and 1 times down.",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1195,
+        "content": "LACP interface active status.  The interface (index = 43, name = xxvgei-0/1/1/41) turns into INACTIVE##LACP set the smartgroup protocol down.  The interface smartgroup51(active count = 0,active value = 1) can not meet the condition",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1197,
+        "content": "LACP interface active status.  The interface (index = 6, name = xgei-0/1/1/4) turns into INACTIVE##LACP interface active status.  The interface (index = 2, name = xgei-0/1/1/1) turns into INACTIVE##Protocol rate limit alarm!  (Interface = mgmt_eth, flowtype = arp)##LACP set the smartgroup protocol down.  The interface smartgroup11(active count = 0,active value = 1) can not meet the condition##LACP interface active status.  The interface (index = 19, name = xgei-0/1/1/17) turns into INACTIVE##Clock is synchronized to NTP server.  (IP:2409:8086:8419:fb::12;Vrf:mng)##LACP set the smartgroup protocol down.  The interface smartgroup1(active count = 0,active value = 1) can not meet the condition##LACP set the smartgroup protocol down.  The interface smartgroup14(active count = 0,active value = 1) can not meet the condition##LACP interface active status.  The interface (index = 37, name = xgei-0/1/1/35) turns into INACTIVE##LACP set the smartgroup protocol down.  The interface smartgroup45(active count = 0,active value = 1) can not meet the condition##LACP set the smartgroup protocol down.  The interface smartgroup27(active count = 0,active value = 1) can not meet the condition##LACP interface active status.  The interface (index = 49, name = xgei-0/1/1/47) turns into INACTIVE##LACP set the smartgroup protocol down.  The interface smartgroup2(active count = 0,active value = 1) can not meet the condition##LACP interface active status.  The interface (index = 12, name = xgei-0/1/1/10) turns into INACTIVE##LACP set the smartgroup protocol down.  The interface smartgroup43(active count = 0,active value = 1) can not meet the condition##LACP set the smartgroup protocol down.  The interface smartgroup20(active count = 0,active value = 1) can not meet the condition##LACP interface active status.  The interface (index = 28, name = xgei-0/1/1/26) turns into INACTIVE##LACP interface active status.  The interface (index = 55, name = xlgei-0/1/1/53) turns into INACTIVE",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1198,
+        "content": "LACP current status changed.  The interface smartgroup1 turns into NON-PROTECT status##LACP interface active status.  The interface (index = 8755, name = cgei-0/1/0/1) turns into INACTIVE##LACP current status changed.  The interface smartgroup1 NON-PROTECT status disappear##LACP interface active status.  The interface (index = 8755, name = cgei-0/1/0/1) turns into ACTIVE",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1199,
+        "content": "LACP current status changed.  The interface smartgroup5 turns into NON-PROTECT status##The partner information carried in the received PDU changed.  (index = 8784, name =xgei-0/4/1/2, field ='partner_state', pkt_value =0xd, local_value=0x3d)##LACP interface active status.  The interface (index = 8764, name = xgei-0/4/0/2) turns into ACTIVE##LACP interface active status.  The interface (index = 8764, name = xgei-0/4/0/2) turns into INACTIVE##LACP current status changed.  The interface smartgroup5 NON-PROTECT status disappear",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1200,
+        "content": "LACP interface active status.  The interface (index = 8765, name = xgei-0/4/0/3) turns into INACTIVE##LACP current status changed.  The interface smartgroup11 turns into NON-PROTECT status",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1202,
+        "content": "LACP interface active status.  The interface (index = 8755, name = cgei-0/1/0/1) turns into INACTIVE##Interface layer2 status.  The interface(index=8271,name='spi-0/1/0/1') layer2 status turned into DELETED",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1203,
+        "content": "LACP interface active status.  The interface (index = 8409, name = cgei-0/2/0/1) turns into INACTIVE##Interface layer2 status.  The interface(index=8273,name='spi-0/2/0/1') layer2 status turned into DELETED",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1204,
+        "content": "LACP interface active status.  The interface (index = 8409, name = cgei-0/2/0/1) turns into INACTIVE##Interface layer2 status.  The interface(index=8283,name='spi-0/3/0/1') layer2 status turned into DELETED",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1205,
+        "content": "LACP interface active status.  The interface (index = 8409, name = cgei-0/2/0/1) turns into INACTIVE##Interface layer2 status.  The interface(index=8273,name='spi-0/2/0/1') layer2 status turned into DELETED",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1206,
+        "content": "Interface layer2 status.  The interface(index=8295,name='ulei-0/1/0/1') layer2 status turned into DELETED##LACP interface active status.  The interface (index = 8755, name = cgei-0/1/0/1) turns into INACTIVE",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1207,
+        "content": "LOS (Loss of Signal)!  (xgei-0/5/1/3: loss of signal cleared)##LACP interface active status.  The interface (index = 8825, name = xgei-0/5/1/3) turns into INACTIVE",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1208,
+        "content": "HI-BER  The physical interface xgei-0/5/0/5 HI-BER exceed threshold##LOS (Loss of Signal)!  (xgei-0/5/0/4: loss of signal cleared)##HI-BER  The physical interface xgei-0/5/0/5 HI-BER below threshold##RF (Remote Fault)!  (xgei-0/5/0/5)##LACP interface active status.  The interface (index = 8805, name = xgei-0/5/0/3) turns into INACTIVE##LOS (Loss of Signal)!  (xgei-0/5/0/3: loss of signal cleared)",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1209,
+        "content": "LOS (Loss of Signal)!  (xgei-0/5/1/5: loss of signal cleared)##LOS (Loss of Signal)!  (xgei-0/5/1/3: loss of signal cleared)##LACP interface active status.  The interface (index = 8825, name = xgei-0/5/1/3) turns into INACTIVE",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1210,
+        "content": "LACP interface active status.  The interface (index = 8773, name = xgei-0/4/0/1) turns into INACTIVE",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1211,
+        "content": "LACP interface active status.  The interface (index = 61, name = xgei-0/2/0/10) turns into INACTIVE##LACP protection status changed.  The interface smartgroup103 switches to PROTECT",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1212,
+        "content": "LACP interface active status.  The interface (index = 65, name = xgei-0/2/0/14) turns into INACTIVE##LACP set the smartgroup protocol down.  The interface smartgroup5(active count = 0,active value = 1) can not meet the condition",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1213,
+        "content": "LACP protection status changed.  The interface smartgroup4 switches to WORK##LACP interface active status.  The interface (index = 63, name = xgei-0/2/0/12) turns into INACTIVE##LACP interface active status.  The interface (index = 64, name = xgei-0/2/0/13) turns into ACTIVE##LACP set the smartgroup protocol down.  The interface smartgroup4(active count = 0,active value = 1) can not meet the condition##LACP protection status changed.  The interface smartgroup4 switches to PROTECT",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1214,
+        "content": "LACP interface active status.  The interface (index = 253, name = xlgei-0/8/0/10) turns into INACTIVE",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1215,
+        "content": "LACP protection status changed.  The interface smartgroup95 switches to WORK##Interface layer2 status.  The interface(index=359,name='smartgroup87') layer2 status turned into protocol UP##LACP protection status changed.  The interface smartgroup90 switches to WORK##Interface layer2 status.  The interface(index=379,name='smartgroup4') layer2 status turned into protocol UP##Interface status.  The interface(index=363,name='smartgroup91') turned into protocol UP##Interface status.  The interface(index=353,name='smartgroup81') turned into protocol UP##LACP protection status changed.  The interface smartgroup83 switches to WORK##Interface layer2 status.  The interface(index=373,name='smartgroup101') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=355,name='smartgroup83') layer2 status turned into protocol UP##LACP protection status changed.  The interface smartgroup88 switches to WORK##Interface layer2 status.  The interface(index=374,name='smartgroup102') layer2 status turned into protocol UP##LACP interface active status.  The interface (index = 4, name = xgei-0/1/0/1) turns into INACTIVE##Interface layer2 status.  The interface(index=354,name='smartgroup82') layer2 status turned into protocol UP##LACP protection status changed.  The interface smartgroup92 switches to WORK##Interface status.  The interface(index=365,name='smartgroup93') turned into protocol UP##Interface layer2 status.  The interface(index=368,name='smartgroup96') layer2 status turned into protocol UP##LACP protection status changed.  The interface smartgroup4 switches to WORK##LACP protection status changed.  The interface smartgroup98 switches to WORK##LACP protection status changed.  The interface smartgroup93 switches to WORK##Interface status.  The interface(index=360,name='smartgroup88') turned into protocol UP##Interface layer2 status.  The interface(index=372,name='smartgroup100') layer2 status turned into protocol UP##LACP protection status changed.  The interface smartgroup96 switches to WORK##LACP protection status changed.  The interface smartgroup97 switches to WORK##Interface layer2 status.  The interface(index=375,name='smartgroup103') layer2 status turned into protocol UP##LACP protection status changed.  The interface smartgroup102 switches to WORK##LACP protection status changed.  The interface smartgroup84 switches to WORK##Interface layer2 status.  The interface(index=356,name='smartgroup84') layer2 status turned into protocol UP##LACP protection status changed.  The interface smartgroup87 switches to WORK##Interface layer2 status.  The interface(index=362,name='smartgroup90') layer2 status turned into protocol UP##LACP protection status changed.  The interface smartgroup104 switches to WORK##LACP protection status changed.  The interface smartgroup91 switches to WORK##LACP protection status changed.  The interface smartgroup96 switches to PROTECT##LACP protection status changed.  The interface smartgroup99 switches to WORK##Interface status.  The interface(index=379,name='smartgroup4') turned into protocol UP##Interface layer2 status.  The interface(index=358,name='smartgroup86') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=369,name='smartgroup97') layer2 status turned into protocol UP##LACP protection status changed.  The interface smartgroup101 switches to WORK##LACP protection status changed.  The interface smartgroup100 switches to WORK##Interface layer2 status.  The interface(index=364,name='smartgroup92') layer2 status turned into protocol UP##LACP protection status changed.  The interface smartgroup4 switches to PROTECT##LACP interface active status.  The interface (index = 58, name = xgei-0/2/0/7) turns into INACTIVE##LACP interface active status.  The interface (index = 52, name = xgei-0/2/0/1) turns into ACTIVE##LACP protection status changed.  The interface smartgroup81 switches to PROTECT##Interface layer2 status.  The interface(index=376,name='smartgroup104') layer2 status turned into protocol UP##LACP protection status changed.  The interface smartgroup81 switches to WORK##Interface layer2 status.  The interface(index=371,name='smartgroup99') layer2 status turned into protocol UP##LACP protection status changed.  The interface smartgroup86 switches to WORK##Interface layer2 status.  The interface(index=353,name='smartgroup81') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=365,name='smartgroup93') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=367,name='smartgroup95') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=370,name='smartgroup98') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=357,name='smartgroup85') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=363,name='smartgroup91') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=360,name='smartgroup88') layer2 status turned into protocol UP##LACP protection status changed.  The interface smartgroup103 switches to WORK##LACP interface active status.  The interface (index = 54, name = xgei-0/2/0/3) turns into ACTIVE##LACP protection status changed.  The interface smartgroup105 switches to WORK##LACP interface active status.  The interface (index = 52, name = xgei-0/2/0/1) turns into INACTIVE##LACP protection status changed.  The interface smartgroup82 switches to WORK##Interface layer2 status.  The interface(index=366,name='smartgroup94') layer2 status turned into protocol UP##LACP interface active status.  The interface (index = 4, name = xgei-0/1/0/1) turns into ACTIVE##LACP interface active status.  The interface (index = 11, name = xgei-0/1/0/8) turns into ACTIVE##LACP protection status changed.  The interface smartgroup89 switches to WORK##LACP protection status changed.  The interface smartgroup85 switches to WORK##LACP interface active status.  The interface (index = 15, name = xgei-0/1/0/12) turns into ACTIVE##LACP protection status changed.  The interface smartgroup94 switches to WORK##Interface layer2 status.  The interface(index=361,name='smartgroup89') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=377,name='smartgroup105') layer2 status turned into protocol UP",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1216,
+        "content": "LACP interface active status.  The interface (index = 181, name = xlgei-0/7/0/10) turns into INACTIVE##LACP protection status changed.  The interface smartgroup5 switches to WORK##LACP interface active status.  The interface (index = 181, name = xlgei-0/7/0/10) turns into ACTIVE##LACP set the smartgroup protocol down.  The interface smartgroup5(active count = 0,active value = 1) can not meet the condition",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1217,
+        "content": "The partner information carried in the received PDU changed.  (index = 216, name =xlgei-0/5/0/9, field ='partner_state', pkt_value =0xf, local_value=0x3f)##LACP current status changed.  The interface smartgroup25 NON-PROTECT status disappear##LACP interface active status.  The interface (index = 215, name = xlgei-0/5/0/8) turns into ACTIVE##LACP interface active status.  The interface (index = 136, name = xlgei-0/3/0/1) turns into ACTIVE",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1218,
+        "content": "LACP interface active status.  The interface (index = 46, name = xgei-0/1/0/43) turns into INACTIVE##LACP protection status changed.  The interface smartgroup1024 switches to PROTECT##LACP set the smartgroup protocol down.  The interface smartgroup1024(active count = 0,active value = 1) can not meet the condition",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1219,
+        "content": "LACP interface active status.  The interface (index = 64, name = xgei-0/2/0/13) turns into INACTIVE",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1220,
+        "content": "LACP current status changed.  The interface smartgroup1 turns into NON-PROTECT status##LACP interface active status.  The interface (index = 315, name = xlgei-0/4/0/36) turns into INACTIVE##LACP current status changed.  The interface smartgroup1 NON-PROTECT status disappear##LACP interface active status.  The interface (index = 315, name = xlgei-0/4/0/36) turns into ACTIVE",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1221,
+        "content": "LACP interface active status.  The interface (index = 23, name = xgei-0/1/1/21) turns into INACTIVE##LACP set the smartgroup protocol down.  The interface smartgroup31(active count = 0,active value = 1) can not meet the condition##LACP interface active status.  The interface (index = 2, name = xgei-0/1/1/1) turns into INACTIVE##LACP set the smartgroup protocol down.  The interface smartgroup11(active count = 0,active value = 1) can not meet the condition##LACP set the smartgroup protocol down.  The interface smartgroup17(active count = 0,active value = 1) can not meet the condition##LACP set the smartgroup protocol down.  The interface smartgroup32(active count = 0,active value = 1) can not meet the condition##Clock is synchronized to NTP server.  (IP:2409:8086:8419:fb::12;Vrf:mng)##LACP set the smartgroup protocol down.  The interface smartgroup1(active count = 0,active value = 1) can not meet the condition##LACP interface active status.  The interface (index = 40, name = xgei-0/1/1/38) turns into INACTIVE##Root bridge changed  Instance 0 root bridge changed from 32768.FC44.9F60.57C8 to 8192.FC44.9F60.57C8##LACP interface active status.  The interface (index = 24, name = xgei-0/1/1/22) turns into INACTIVE##LACP interface active status.  The interface (index = 49, name = xgei-0/1/1/47) turns into INACTIVE##Mng port alarm!  MNG port state link down in shelf = 0 slot = 1##LACP set the smartgroup protocol down.  The interface smartgroup48(active count = 0,active value = 1) can not meet the condition##Protocol rate limit alarm!  (Interface = mgmt_eth, flowtype = any)##LACP set the smartgroup protocol down.  The interface smartgroup2(active count = 0,active value = 1) can not meet the condition##Mng port Change!  Active mng port changes to shelf 0##LACP interface active status.  The interface (index = 54, name = xlgei-0/1/1/52) turns into INACTIVE",
+        "label": 9
+    },
+    {
+        "part": 3,
+        "caseid": 1233,
+        "content": "The upsend packet flow of control plane reached quota limit.  cpu-cir = mpu , flowtype = ospf-default , current value = 1278, quota value = 500##Neighbor state changed.  Nbr 132.25.255.34 on intf cgei-0/3/0/1 in OSPFv3 process 1, EXSTART->DOWN. (AreaId:0.0.0.0;Reason:DeadTimerExpire)##The upsend packet flow of control plane reached quota limit.  (Interface = cgei-0/3/0/1, flowtype = ospf-default, current value = 0, quota value = 100).##The upsend packet flow of control plane reached quota limit.  (Interface = cgei-0/2/0/2, flowtype = ospf-default, current value = 13786, quota value = 100).##Neighbor state changed.  Nbr 132.25.255.34 on intf cgei-0/1/1/2 in OSPFv3 process 1, INIT->DOWN. (AreaId:0.0.0.0;Reason:N/A)##Neighbor state changed.  Nbr 132.25.255.36 on intf cgei-0/1/0/2 in OSPFv3 process 1, INIT->DOWN. (AreaId:0.0.0.0;Reason:N/A)##Neighbor state changed.  Nbr 132.25.255.23 on intf cgei-0/3/0/1 in OSPFv3 process 1, INIT->DOWN. (AreaId:0.0.0.0;Reason:N/A)##Neighbor state changed.  Nbr 132.25.255.40 on intf cgei-0/1/0/2 in OSPFv3 process 1, INIT->DOWN. (AreaId:0.0.0.0;Reason:N/A)##The upsend packet flow of control plane reached quota limit.  cpu-cir = mpu , flowtype = nd , current value = 1200, quota value = 2000##The upsend packet flow of control plane reached quota limit.  cpu-cir = mpu , flowtype = ospf-default , current value = 9, quota value = 500##Neighbor state changed.  Nbr 132.25.255.35 on intf cgei-0/1/1/2 in OSPFv3 process 1, INIT->DOWN. (AreaId:0.0.0.0;Reason:N/A)##The upsend packet flow of control plane reached quota limit.  (Interface = cgei-0/2/0/2, flowtype = nd, current value = 0, quota value = 200).##The upsend packet flow of control plane reached quota limit.  cpu-cir = mpu , flowtype = ospf-default , current value = 966, quota value = 500##Neighbor state changed.  Nbr 132.25.255.3 on intf cgei-0/3/0/1 in OSPFv3 process 1, INIT->DOWN. (AreaId:0.0.0.0;Reason:N/A)##The upsend packet flow of control plane reached quota limit.  cpu-cir = mpu , flowtype = nd , current value = 2185, quota value = 2000##Receive bandwidth usage rate threshold crossed  (Interface:cgei-0/3/0/1) <1633-description> 15min high alarm disappear. High thres is: 0.7000, current value is: 0.6978##Neighbor state changed.  Nbr 132.25.255.34 on intf cgei-0/0/1/2 in OSPFv3 process 1, EXSTART->DOWN. (AreaId:0.0.0.0;Reason:DeadTimerExpire)##Receive bandwidth usage rate threshold crossed  (Interface:cgei-0/0/1/2) <1633-description> 15min high alarm disappear. High thres is: 0.7000, current value is: 0.6981##Neighbor state changed.  Nbr 132.25.255.38 on intf cgei-0/3/0/1 in OSPFv3 process 1, EXSTART->DOWN. (AreaId:0.0.0.0;Reason:N/A)##Neighbor state changed.  Nbr 132.25.255.6 on intf cgei-0/3/0/1 in OSPFv3 process 1, INIT->DOWN. (AreaId:0.0.0.0;Reason:N/A)##The upsend packet flow of control plane reached quota limit.  cpu-cir = mpu , flowtype = ospf-default , current value = 1026, quota value = 500##Neighbor state changed.  Nbr 132.25.255.3 on intf cgei-0/2/0/2 in OSPFv3 process 1, DOWN->INIT. (AreaId:0.0.0.0;Reason:N/A)##The upsend packet flow of control plane reached quota limit.  (Interface = cgei-0/2/0/2, flowtype = ospf-default, current value = 0, quota value = 100).##The upsend packet flow of control plane reached quota limit.  (Interface = cgei-0/3/0/1, flowtype = nd, current value = 0, quota value = 200).##The upsend packet flow of control plane reached quota limit.  cpu-cir = mpu , flowtype = ospf-default , current value = 0, quota value = 500##The upsend packet flow of control plane reached quota limit.  (Interface = cgei-0/3/0/1, flowtype = ospf-default, current value = 27179, quota value = 100).",
+        "label": 10
+    },
+    {
+        "part": 3,
+        "caseid": 1235,
+        "content": "Neighbor state changed.  (NeighborID:192.168.5.134;Interface:smartgroup8.3465;State:Full->Down;ProcessId:712;AreaId:0.0.0.0;Reason:DeadTimerExpire).##Neighbor state changed.  Nbr 192.168.5.134 on intf smartgroup8.3465 in OSPFv3 process 712, FULL->DOWN. (AreaId:0.0.0.0;Reason:DeadTimerExpire)",
+        "label": 10
+    },
+    {
+        "part": 3,
+        "caseid": 1236,
+        "content": "Neighbor state changed.  Nbr 10.69.131.29 on intf smartgroup3.1612 in OSPFv3 process 712, DOWN->INIT. (AreaId:0.0.0.0;Reason:N/A)##Interface state changed.  Interface 192.168.165.6 changed from Waiting to Down (ProcessId:158;AreaId:0.0.0.0;IfName:smartgroup3.1425;Reason:Admin Down)##Interface state changed.  Interface 192.168.165.6 changed from P To P to Down (ProcessId:158;AreaId:0.0.0.0;IfName:smartgroup3.1425;Reason:Admin Down)##Neighbor state changed.  (NeighborID:10.69.131.16;Interface:smartgroup3.1612;State:Full->Down;ProcessId:712;AreaId:0.0.0.0;Reason:DeadTimerExpire).##Write txt.  Auto write txt. Result : success.##Neighbor state changed.  Nbr 10.69.131.16 on intf smartgroup3.1612 in OSPFv3 process 712, FULL->DOWN. (AreaId:0.0.0.0;Reason:DeadTimerExpire)##Originate LSA.  Proc Id 158 area 0.0.0.0 LS type: 1 Advertising Router: 192.168.165.19 Link State ID: 192.168.165.19##Neighbor state changed.  Nbr 10.69.131.29 on intf smartgroup3.1612 in OSPFv3 process 712, FULL->INIT. (AreaId:0.0.0.0;Reason:N/A)",
+        "label": 10
+    },
+    {
+        "part": 3,
+        "caseid": 1237,
+        "content": "Interface state changed.  Intf smartgroup6.3072 in OSPFv3 process 3072, DOWN->WAITING. (Process:3072;AreaId:0.0.0.0;IfName:smartgroup6.3072)##Neighbor state changed.  Nbr 72.72.72.3 on intf smartgroup6.3072 in OSPFv3 process 3072, DOWN->INIT. (AreaId:0.0.0.0;Reason:N/A)",
+        "label": 10
+    },
+    {
+        "part": 3,
+        "caseid": 1238,
+        "content": "Neighbor state changed.  Nbr 132.25.255.131 on intf smartgroup6.99 in OSPFv3 process 2, FULL->DOWN. (AreaId:0.0.0.0;Reason:DeadTimerExpire)##Neighbor state changed.  (NeighborID:132.25.255.131;Interface:smartgroup6.99;State:Full->Down;ProcessId:2;AreaId:0.0.0.0;Reason:DeadTimerExpire).",
+        "label": 10
+    }
+]

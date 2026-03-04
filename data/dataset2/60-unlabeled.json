@@ -1,0 +1,362 @@
+[
+    {
+        "part": 1,
+        "caseid": 0,
+        "content": "Power drop off!  Shelf = 0, Group = A, Power-Module = 0 AC Power drop off alarm##Power malfunction!  Shelf = 0, Group = B, Power-Module = 1 AC Power malfunction resume##Power drop off!  Shelf = 0, Group = B, Power-Module = 3 AC Power drop off resume##Power malfunction!  Shelf = 0, Group = B, Power-Module = 1 AC Power malfunction alarm##Power drop off!  Shelf = 0, Group = B, Power-Module = 3 AC Power drop off alarm##Power malfunction!  Shelf = 0, Group = B, Power-Module = 2 AC Power malfunction alarm##Power drop off!  Shelf = 0, Group = B, Power-Module = 2 AC Power drop off alarm##Power malfunction!  Shelf = 0, Group = B, Power-Module = 3 AC Power malfunction resume##Power malfunction!  Shelf = 0, Group = B, Power-Module = 0 AC Power malfunction resume##Power fall off!  Shelf = 0, Group = A, Power-Module = 1 single power fall off##Power malfunction!  Shelf = 0, Group = B, Power-Module = 3 AC Power malfunction alarm##Power drop off!  Shelf = 0, Group = B, Power-Module = 0 AC Power drop off alarm##Power drop off!  Shelf = 0, Group = B, Power-Module = 1 AC Power drop off alarm##Power drop off!  Shelf = 0, Group = B, Power-Module = 2 AC Power drop off resume##Power malfunction!  Shelf = 0, Group = B, Power-Module = 2 AC Power malfunction resume##Power drop off!  Shelf = 0, Group = B, Power-Module = 0 AC Power drop off resume##Power drop off!  Shelf = 0, Group = B, Power-Module = 1 AC Power drop off resume##Power malfunction!  Shelf = 0, Group = B, Power-Module = 0 AC Power malfunction alarm",
+        "label": 1
+    },
+    {
+        "part": 1,
+        "caseid": 1,
+        "content": "Power fall off!  Shelf = 0, Group = A, Power-Module = 2 single power fall off##Power malfunction!  Shelf = 0, Group = B, Power-Module = 1 AC Power malfunction alarm##Power drop off!  Shelf = 0, Group = B, Power-Module = 3 AC Power drop off alarm##Power malfunction!  Shelf = 0, Group = B, Power-Module = 2 AC Power malfunction alarm##Power drop off!  Shelf = 0, Group = B, Power-Module = 2 AC Power drop off alarm##Power malfunction!  Shelf = 0, Group = B, Power-Module = 3 AC Power malfunction alarm##Power drop off!  Shelf = 0, Group = B, Power-Module = 0 AC Power drop off alarm##Power drop off!  Shelf = 0, Group = B, Power-Module = 1 AC Power drop off alarm##Power malfunction!  Shelf = 0, Group = B, Power-Module = 0 AC Power malfunction alarm",
+        "label": 1
+    },
+    {
+        "part": 1,
+        "caseid": 5,
+        "content": "Fangroup malfunction!  Fanid =1 in shelfnum =0 fangroupid =1 is abnormal!",
+        "label": 2
+    },
+    {
+        "part": 1,
+        "caseid": 6,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=4140,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal",
+        "label": 2
+    },
+    {
+        "part": 1,
+        "caseid": 111,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 1,
+        "caseid": 146,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 1,
+        "caseid": 10,
+        "content": "SFP Temperature reached the threshold  (Interface=xlgei-0/1/1/52 Chanel=1,Current Temperature=70.02, Threshold Level=high warning(70.00))##SFP Temperature reached the threshold  (Interface=xlgei-0/1/1/52 Chanel=1,Current Temperature=69.96, Threshold Level=nomral(69.96))",
+        "label": 3
+    },
+    {
+        "part": 1,
+        "caseid": 11,
+        "content": "SFP power reached the threshold  (Interface=xgei-0/1/1/11 direction=RX,Chanel=1,Current power=-9.90, Threshold Level=low warning(-9.90))",
+        "label": 3
+    },
+    {
+        "part": 1,
+        "caseid": 325,
+        "content": "Laser Bias Current(mA) threshold crossed  (Interface:cgei-0/2/0/1,lane = 2) <239-description> 15min low alarm occur. Low thres is: 25.0000, current value is: 0.0000",
+        "label": 3
+    },
+    {
+        "part": 1,
+        "caseid": 15,
+        "content": "Interface layer2 status.  The interface(index=8,name='xgei-0/1/1/5') layer2 status turned into protocol UP##Port down reason  Interface xgei-0/1/1/5 is down, due to Los##Interface layer2 status.  The interface(index=8,name='xgei-0/1/1/5') layer2 status turned into protocol DOWN##Interface status.  The interface(index=8,name='xgei-0/1/1/5') turned into protocol UP##Interface status.  The interface(index=8,name='xgei-0/1/1/5') turned into protocol DOWN",
+        "label": 4
+    },
+    {
+        "part": 1,
+        "caseid": 16,
+        "content": "Interface layer2 status.  The interface(index=8,name='xgei-0/1/1/5') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=8,name='xgei-0/1/1/5') layer2 status turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/5 is down, due to Local Fault##Interface status.  The interface(index=8,name='xgei-0/1/1/5') turned into protocol UP##Interface status.  The interface(index=8,name='xgei-0/1/1/5') turned into protocol DOWN",
+        "label": 4
+    },
+    {
+        "part": 1,
+        "caseid": 514,
+        "content": "Port dampening  The physical interface xgei-0/1/0/4 turned into DAMPENING!##Interface layer2 status.  The interface(index=8300,name='xgei-0/1/0/4') layer2 status turned into protocol UP.##Interface layer2 status.  The interface(index=8300,name='xgei-0/1/0/4') layer2 status turned into protocol DOWN.##Interface status.  The interface(index=8300,name='xgei-0/1/0/4') turned into protocol DOWN.##Physical interface status  The physical interface xgei-0/1/0/4 turned into DOWN##Interface status.  The interface(index=8300,name='xgei-0/1/0/4') turned into protocol UP.##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 72 seconds, up 25 times, down 24 times##Physical interface status  The physical interface xgei-0/1/0/4 turned into UP",
+        "label": 4
+    },
+    {
+        "part": 1,
+        "caseid": 520,
+        "content": "Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 6 seconds, up 1 times, down 0 times##Port dampening  The physical interface xgei-0/1/0/4 turned into DAMPENING!##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 40 seconds, up 15 times, down 14 times##Interface layer2 status.  The interface(index=8300,name='xgei-0/1/0/4') layer2 status turned into protocol UP.##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 205 seconds, up 91 times, down 90 times##Interface layer2 status.  The interface(index=8300,name='xgei-0/1/0/4') layer2 status turned into protocol DOWN.##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 26 seconds, up 7 times, down 6 times##Interface status.  The interface(index=8300,name='xgei-0/1/0/4') turned into protocol DOWN.##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 61 seconds, up 18 times, down 17 times##Physical interface status  The physical interface xgei-0/1/0/4 turned into DOWN##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 39 seconds, up 12 times, down 11 times##Physical interface status  The physical interface xgei-0/1/0/4 turned into UP##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 42 seconds, up 10 times, down 9 times##Interface status.  The interface(index=8300,name='xgei-0/1/0/4') turned into protocol UP.##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 43 seconds, up 15 times, down 14 times",
+        "label": 4
+    },
+    {
+        "part": 1,
+        "caseid": 523,
+        "content": "Port dampening  The physical interface xgei-0/1/0/4 turned into DAMPENING!##Interface layer2 status.  The interface(index=8300,name='xgei-0/1/0/4') layer2 status turned into protocol UP.##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 86 seconds, up 33 times, down 32 times##Interface layer2 status.  The interface(index=8300,name='xgei-0/1/0/4') layer2 status turned into protocol DOWN.##Interface status.  The interface(index=8300,name='xgei-0/1/0/4') turned into protocol DOWN.##Physical interface status  The physical interface xgei-0/1/0/4 turned into DOWN##Interface status.  The interface(index=8300,name='xgei-0/1/0/4') turned into protocol UP.##Physical interface status  The physical interface xgei-0/1/0/4 turned into UP",
+        "label": 4
+    },
+    {
+        "part": 1,
+        "caseid": 525,
+        "content": "Port dampening  The physical interface xgei-0/1/0/4 turned into DAMPENING!##Interface layer2 status.  The interface(index=8300,name='xgei-0/1/0/4') layer2 status turned into protocol UP.##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 261 seconds, up 139 times, down 138 times##Interface layer2 status.  The interface(index=8300,name='xgei-0/1/0/4') layer2 status turned into protocol DOWN.##Interface status.  The interface(index=8300,name='xgei-0/1/0/4') turned into protocol DOWN.##Interface status.  The interface(index=8300,name='xgei-0/1/0/4') turned into protocol UP.",
+        "label": 4
+    },
+    {
+        "part": 1,
+        "caseid": 539,
+        "content": "Port dampening  The physical interface xgei-0/1/0/4 turned into DAMPENING!##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 16 seconds, up 2 times, down 1 times##Interface layer2 status.  The interface(index=8300,name='xgei-0/1/0/4') layer2 status turned into protocol UP.##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 11 seconds, up 1 times, down 0 times##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 195 seconds, up 69 times, down 68 times##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 22 seconds, up 4 times, down 3 times##Interface layer2 status.  The interface(index=8300,name='xgei-0/1/0/4') layer2 status turned into protocol DOWN.##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 14 seconds, up 3 times, down 2 times##Interface status.  The interface(index=8300,name='xgei-0/1/0/4') turned into protocol DOWN.##Physical interface status  The physical interface xgei-0/1/0/4 turned into DOWN##Interface status.  The interface(index=8300,name='xgei-0/1/0/4') turned into protocol UP.##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 20 seconds, up 4 times, down 3 times##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 8 seconds, up 1 times, down 0 times##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 13 seconds, up 2 times, down 1 times##Physical interface status  The physical interface xgei-0/1/0/4 turned into UP",
+        "label": 4
+    },
+    {
+        "part": 1,
+        "caseid": 20,
+        "content": "The crc count of interface xgei-0/1/1/35 is increased by 12",
+        "label": 6
+    },
+    {
+        "part": 1,
+        "caseid": 21,
+        "content": "The crc count of interface xgei-0/1/1/35 is increased by 4",
+        "label": 6
+    },
+    {
+        "part": 1,
+        "caseid": 722,
+        "content": "The MAC of the dynamic ND item changed.  (Old MAC = 902e.164e.f903,new MAC = 3085.a9f0.6ec1,IPv6 Addr = 2409:8027:5a06:1419::20f:10fb,interface = vlan150).##Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 1,
+        "caseid": 25,
+        "content": "STP port instance state changed.  Port smartgroup11 instance 0 state change disabled->discard.##STP port instance state changed.  Port smartgroup18 instance 0 state change disabled->discard.##Root bridge changed.  Instance 0 root bridge changed from 32768.FC44.9F60.4CD8 to 8192.FC44.9F60.4CD8.##Port packet aged.  Instance 0 port smartgroup16 received packet information aged.##Port packet aged.  Instance 0 port smartgroup13 received packet information aged.##Port packet aged.  Instance 0 port smartgroup15 received packet information aged.##Port packet aged.  Instance 0 port smartgroup17 received packet information aged.##Port packet aged.  Instance 0 port smartgroup11 received packet information aged.##STP port instance state changed.  Port smartgroup16 instance 0 state change disabled->discard.##STP port instance state changed.  Port smartgroup12 instance 0 state change disabled->discard.##Port packet aged.  Instance 0 port smartgroup14 received packet information aged.##Port packet aged.  Instance 0 port smartgroup18 received packet information aged.##STP port instance state changed.  Port smartgroup14 instance 0 state change disabled->discard.##STP port instance state changed.  Port smartgroup19 instance 0 state change disabled->discard.##Port packet aged.  Instance 0 port smartgroup19 received packet information aged.##STP port instance state changed.  Port smartgroup15 instance 0 state change disabled->discard.##Upload config file.  Upload config file complete. SFTP server IP : 2409:8086:8411:60::797, result : fail, error code : 6.##STP port instance state changed.  Port smartgroup17 instance 0 state change disabled->discard.##Port packet aged.  Instance 0 port smartgroup20 received packet information aged.##STP port instance state changed.  Port smartgroup20 instance 0 state change disabled->discard.##Port packet aged.  Instance 0 port smartgroup12 received packet information aged.##STP port instance state changed.  Port smartgroup13 instance 0 state change disabled->discard.",
+        "label": 7
+    },
+    {
+        "part": 1,
+        "caseid": 26,
+        "content": "STP port instance state changed.  Port smartgroup11 instance 0 state change disabled->discard.##STP port instance state changed.  Port smartgroup18 instance 0 state change disabled->discard.##Root bridge changed.  Instance 0 root bridge changed from 32768.FC44.9F60.4CD8 to 8192.FC44.9F60.4CD8.##Port packet aged.  Instance 0 port smartgroup16 received packet information aged.##Port packet aged.  Instance 0 port smartgroup13 received packet information aged.##Port packet aged.  Instance 0 port smartgroup15 received packet information aged.##Port packet aged.  Instance 0 port smartgroup17 received packet information aged.##Port packet aged.  Instance 0 port smartgroup11 received packet information aged.##STP port instance state changed.  Port smartgroup16 instance 0 state change disabled->discard.##STP port instance state changed.  Port smartgroup12 instance 0 state change disabled->discard.##Port packet aged.  Instance 0 port smartgroup14 received packet information aged.##Port packet aged.  Instance 0 port smartgroup18 received packet information aged.##STP port instance state changed.  Port smartgroup14 instance 0 state change disabled->discard.##STP port instance state changed.  Port smartgroup19 instance 0 state change disabled->discard.##Port packet aged.  Instance 0 port smartgroup19 received packet information aged.##STP port instance state changed.  Port smartgroup15 instance 0 state change disabled->discard.##Upload config file.  Upload config file complete. SFTP server IP : 2409:8086:8411:60::797, result : fail, error code : 6.##STP port instance state changed.  Port smartgroup17 instance 0 state change disabled->discard.##Port packet aged.  Instance 0 port smartgroup20 received packet information aged.##STP port instance state changed.  Port smartgroup20 instance 0 state change disabled->discard.##Port packet aged.  Instance 0 port smartgroup12 received packet information aged.##STP port instance state changed.  Port smartgroup13 instance 0 state change disabled->discard.",
+        "label": 7
+    },
+    {
+        "part": 1,
+        "caseid": 30,
+        "content": "SessionInfo :  [Session Up]Ld:3065/Rd:13,Protocol:STATIC ,singleHop,IfName:smartgroup11.2611,VpnId:38,Local/Peer:2409:8086:8411:A33:0:0:0:2/2409:8086:8411:A33:0:0:0:4##SessionInfo :  [Session Down For UP_RCV_DOWN]Ld:3065/Rd:13,Protocol:STATIC ,singleHop,IfName:smartgroup11.2611,VpnId:38,Local/Peer:2409:8086:8411:A33:0:0:0:2/2409:8086:8411:A33:0:0:0:4",
+        "label": 8
+    },
+    {
+        "part": 1,
+        "caseid": 31,
+        "content": "SessionInfo :  [Session Up]Ld:3184/Rd:4,Protocol:STATIC ,singleHop,IfName:smartgroup11.2655,VpnId:34,Local/Peer:192.168.60.98/192.168.60.100##SessionInfo :  [Session Down For UP_RCV_DOWN]Ld:3184/Rd:4,Protocol:STATIC ,singleHop,IfName:smartgroup11.2655,VpnId:34,Local/Peer:192.168.60.98/192.168.60.100",
+        "label": 8
+    },
+    {
+        "part": 1,
+        "caseid": 950,
+        "content": "SessionInfo :  [Session Up]Ld:2595/Rd:16,Protocol:STATIC ,singleHop,IfName:smartgroup11.2575,VpnId:40,Local/Peer:2409:8086:8411:A0F:0:0:0:2/2409:8086:8411:A0F:0:0:0:4##SessionInfo :  [Session Down For UP_RCV_DOWN]Ld:2217/Rd:14,Protocol:STATIC ,singleHop,IfName:smartgroup11.2541,VpnId:36,Local/Peer:2409:8086:8411:9ED:0:0:0:2/2409:8086:8411:9ED:0:0:0:4",
+        "label": 8
+    },
+    {
+        "part": 1,
+        "caseid": 970,
+        "content": "SessionInfo :  [Session Up]Ld:2655/Rd:12,Protocol:STATIC ,singleHop,IfName:smartgroup11.1510,VpnId:35,Local/Peer:2409:8086:8411:5E6:0:0:0:2/2409:8086:8411:5E6:0:0:0:4##SessionInfo :  [Session Down For UP_RCV_DOWN]Ld:3073/Rd:1024,Protocol:STATIC ,singleHop,IfName:smartgroup11.1508,VpnId:30,Local/Peer:192.168.48.114/192.168.48.116",
+        "label": 8
+    },
+    {
+        "part": 1,
+        "caseid": 978,
+        "content": "SessionInfo :  [Session Up]Ld:2557/Rd:1024,Protocol:STATIC ,singleHop,IfName:smartgroup11.2488,VpnId:3,Local/Peer:192.168.152.81/192.168.152.84##SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:2438/Rd:2,Protocol:STATIC ,singleHop,IfName:smartgroup11.2488,VpnId:3,Local/Peer:2409:8086:8411:9B8:0:0:0:1/2409:8086:8411:9B8:0:0:0:4",
+        "label": 8
+    },
+    {
+        "part": 1,
+        "caseid": 983,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:3713/Rd:3,Protocol:STATIC ,singleHop,IfName:smartgroup11.4033,VpnId:5,Local/Peer:192.168.137.53/192.168.137.54",
+        "label": 8
+    },
+    {
+        "part": 1,
+        "caseid": 35,
+        "content": "LACP interface active status.  The interface (index = 8317, name = xgei-0/0/0/1) turns into ACTIVE##LACP set the smartgroup protocol down.  Smartgroup(group id = 1,active count = 0,active value = 1) can not meet the condition##LACP current status changed.  Smartgroup(group id = 11) NON-PROTECT status disappear##Interface status.  The interface(index=8341,name='smartgroup1') turned into protocol UP.##LACP current status changed.  Smartgroup(group id = 11) turns into NON-PROTECT status##Interface delete.  The interface(index=8339,name='smartgroup4') was deleted.##LACP interface active status.  The interface (index = 8299, name = xgei-0/1/0/3) turns into ACTIVE##LACP interface active status.  The interface (index = 8317, name = xgei-0/0/0/1) turns into INACTIVE##LACP current status changed.  Smartgroup(group id = 1) NON-PROTECT status disappear##Interface status.  The interface(index=8340,name='smartgroup11') turned into protocol UP.##LACP interface active status.  The interface (index = 8319, name = xgei-0/0/0/3) turns into INACTIVE##LACP current status changed.  Smartgroup(group id = 1) turns into NON-PROTECT status##LACP set the smartgroup protocol down.  Smartgroup(group id = 11,active count = 0,active value = 1) can not meet the condition",
+        "label": 9
+    },
+    {
+        "part": 1,
+        "caseid": 36,
+        "content": "LACP interface active status.  The interface (index = 8318, name = xgei-0/0/0/2) turns into INACTIVE##LACP set the smartgroup protocol down.  Smartgroup(group id = 3,active count = 0,active value = 1) can not meet the condition",
+        "label": 9
+    },
+    {
+        "part": 1,
+        "caseid": 1129,
+        "content": "The actor information carried in the received PDU changed.  (index = 8341, name =xgeiw-0/0/0/2, field ='actor_state', pkt_value =0x3, local_value=0x3f)##LACP current status changed.  Smartgroup(group id = 3) NON-PROTECT status disappear##LACP current status changed.  Smartgroup(group id = 3) turns into NON-PROTECT status##LACP interface active status.  The interface (index = 8341, name = xgeiw-0/0/0/2) turns into ACTIVE##The physical interface  xgeiw-0/0/0/2 was UP after delay.1 times up and 1 times down.##LACP interface active status.  The interface (index = 8341, name = xgeiw-0/0/0/2) turns into INACTIVE",
+        "label": 9
+    },
+    {
+        "part": 1,
+        "caseid": 1137,
+        "content": "LACP set the smartgroup protocol down.  Smartgroup(group id = 12,active count = 0,active value = 1) can not meet the condition##LACP interface active status.  The interface (index = 8271, name = xgei-0/1/0/6) turns into INACTIVE",
+        "label": 9
+    },
+    {
+        "part": 1,
+        "caseid": 1139,
+        "content": "LACP receive lacpdu time out.  The port(index = 8287, name = xgei-0/1/1/1) turns into EXPIRED##LACP interface active status.  The interface (index = 8287, name = xgei-0/1/1/1) turns into INACTIVE",
+        "label": 9
+    },
+    {
+        "part": 1,
+        "caseid": 40,
+        "content": "Interface state changed.  Intf loopback1 in OSPFv3 process 65231, DOWN->LOOPBACK.",
+        "label": 10
+    },
+    {
+        "part": 1,
+        "caseid": 41,
+        "content": "Interface state changed.  Intf smartgroup11 in OSPFv3 process 65083, DOWN->WAITING.",
+        "label": 10
+    },
+    {
+        "part": 1,
+        "caseid": 1224,
+        "content": "LACP current status changed.  The interface smartgroup1 NON-PROTECT status disappear##Neighbor state changed.  (NeighborID:10.69.131.19;Interface:smartgroup1.1612;State:Full->Down;ProcessId:712;AreaId:0.0.0.0;Reason:InterfaceDown).##Originate LSA.  Proc Id 101 area 0.0.0.0 LS type: 1 Advertising Router: 10.69.203.18 Link State ID: 10.69.203.18##Neighbor state changed.  Nbr 10.69.131.19 on intf smartgroup1.1612 in OSPFv3 process 712, LOADING->FULL. (AreaId:0.0.0.0;Reason:N/A)##Neighbor state changed.  Nbr 132.25.255.131 on intf smartgroup1.99 in OSPFv3 process 2, FULL->DOWN. (AreaId:0.0.0.0;Reason:InterfaceDown)",
+        "label": 10
+    },
+    {
+        "part": 2,
+        "caseid": 156,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 2,
+        "caseid": 177,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=7980,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 2,
+        "caseid": 203,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 2,
+        "caseid": 404,
+        "content": "Laser Temperature (celsius) threshold crossed  (Interface:cgei-0/3/1/1,lane = 1) <240-description> 15min low alarm forecast disappear. Warn low thres is: 27.0000, current value is: 27.0117",
+        "label": 3
+    },
+    {
+        "part": 2,
+        "caseid": 550,
+        "content": "Port dampening  The physical interface xgei-0/1/0/4 turned into DAMPENING!##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 12 seconds, up 2 times, down 1 times##Physical interface status  The physical interface xgei-0/1/0/4 turned into UP##Physical interface status  The physical interface xgei-0/1/0/4 turned into DOWN",
+        "label": 4
+    },
+    {
+        "part": 2,
+        "caseid": 552,
+        "content": "Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 28 seconds, up 7 times, down 6 times##Port dampening  The physical interface xgei-0/1/0/4 turned into DAMPENING!##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 12 seconds, up 3 times, down 2 times##Interface layer2 status.  The interface(index=8300,name='xgei-0/1/0/4') layer2 status turned into protocol UP.##Interface layer2 status.  The interface(index=8300,name='xgei-0/1/0/4') layer2 status turned into protocol DOWN.##Interface status.  The interface(index=8300,name='xgei-0/1/0/4') turned into protocol DOWN.##Physical interface status  The physical interface xgei-0/1/0/4 turned into DOWN##Interface status.  The interface(index=8300,name='xgei-0/1/0/4') turned into protocol UP.##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 30 seconds, up 6 times, down 5 times##Physical interface status  The physical interface xgei-0/1/0/4 turned into UP",
+        "label": 4
+    },
+    {
+        "part": 2,
+        "caseid": 555,
+        "content": "Port dampening  The physical interface xgei-0/1/0/4 turned into DAMPENING!##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 41 seconds, up 9 times, down 8 times##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 12 seconds, up 2 times, down 1 times##Interface layer2 status.  The interface(index=8300,name='xgei-0/1/0/4') layer2 status turned into protocol UP.##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 24 seconds, up 5 times, down 4 times##Interface layer2 status.  The interface(index=8300,name='xgei-0/1/0/4') layer2 status turned into protocol DOWN.##Interface status.  The interface(index=8300,name='xgei-0/1/0/4') turned into protocol DOWN.##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 23 seconds, up 7 times, down 6 times##Physical interface status  The physical interface xgei-0/1/0/4 turned into DOWN##Interface status.  The interface(index=8300,name='xgei-0/1/0/4') turned into protocol UP.##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 48 seconds, up 15 times, down 14 times##Port dampening  The physical interface xgei-0/1/0/4 flap cleared, damping time 36 seconds, up 12 times, down 11 times##Physical interface status  The physical interface xgei-0/1/0/4 turned into UP",
+        "label": 4
+    },
+    {
+        "part": 2,
+        "caseid": 586,
+        "content": "Physical interface status  The physical interface xgei-0/1/0/6 turned into DOWN##Physical interface status  The physical interface xgei-0/1/0/6 turned into UP##Interface v6 status.  The interface(index=8322,name='xgei-0/1/0/6') v6 status turned into protocol DOWN.##Interface v6 status.  The interface(index=8322,name='xgei-0/1/0/6') v6 status turned into protocol UP.##Port dampening  The physical interface xgei-0/1/0/6 turned into DAMPENING!##Interface status.  The interface(index=8322,name='xgei-0/1/0/6') turned into protocol DOWN.##Interface status.  The interface(index=8322,name='xgei-0/1/0/6') turned into protocol UP.##Port dampening  The physical interface xgei-0/1/0/6 flap cleared, damping time 8 seconds, up 1 times, down 0 times",
+        "label": 4
+    },
+    {
+        "part": 2,
+        "caseid": 768,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 2,
+        "caseid": 1001,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:17130/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb212,VpnId:67,Local/Peer:2409:8027:5000:9:0:0:0:A3FE/2409:8086:8419:2E83:0:0:1:0,SessionName:zenic_bfd_712.",
+        "label": 8
+    },
+    {
+        "part": 2,
+        "caseid": 1002,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:17118/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb209,VpnId:68,Local/Peer:2409:8027:5000:9:0:0:0:53FF/2409:8086:8419:2E80:0:0:1:0,SessionName:zenic_bfd_700.",
+        "label": 8
+    },
+    {
+        "part": 2,
+        "caseid": 1174,
+        "content": "LACP receive lacpdu time out.  The port(index = 8287, name = xgei-0/1/1/1) turns into EXPIRED##LACP interface active status.  The interface (index = 8287, name = xgei-0/1/1/1) turns into INACTIVE",
+        "label": 9
+    },
+    {
+        "part": 2,
+        "caseid": 1183,
+        "content": "LACP interface active status.  The interface (index = 8282, name = xgei-0/0/0/4) turns into ACTIVE##LACP current status changed.  Smartgroup(group id = 13) turns into NON-PROTECT status##LACP interface active status.  The interface (index = 8269, name = xgei-0/1/0/4) turns into ACTIVE##LACP current status changed.  Smartgroup(group id = 13) NON-PROTECT status disappear##LACP interface active status.  The interface (index = 8282, name = xgei-0/0/0/4) turns into INACTIVE##LACP set the smartgroup protocol down.  Smartgroup(group id = 13,active count = 0,active value = 1) can not meet the condition##Interface status.  The interface(index=8351,name='smartgroup13') turned into protocol UP.",
+        "label": 9
+    },
+    {
+        "part": 2,
+        "caseid": 1231,
+        "content": "Delete OSPF interface.  Intf smartgroup9.3802 in OSPFv3 process 40. (AreaId:0.0.0.0)##Interface state changed.  Intf loopback40 in OSPFv3 process 40, LOOPBACK->DOWN. (Process:40;AreaId:0.0.0.0;IfName:loopback40)##Interface state changed.  Intf smartgroup9.3802 in OSPFv3 process 40, POINT_TO_POINT->DOWN. (Process:40;AreaId:0.0.0.0;IfName:smartgroup9.3802)##Interface state changed.  Intf smartgroup10.3802 in OSPFv3 process 40, POINT_TO_POINT->DOWN. (Process:40;AreaId:0.0.0.0;IfName:smartgroup10.3802)##Interface state changed.  Intf loopback40 in OSPFv3 process 40, DOWN->LOOPBACK. (Process:40;AreaId:0.0.0.0;IfName:loopback40)##Delete OSPF interface.  Intf loopback40 in OSPFv3 process 40. (AreaId:0.0.0.0)##Delete OSPF interface.  Intf smartgroup10.3802 in OSPFv3 process 40. (AreaId:0.0.0.0)",
+        "label": 10
+    },
+    {
+        "part": 3,
+        "caseid": 69,
+        "content": "power abnormal  Shelfnum =0 groupid =1  powerid =2  Power malfunction alarm##Power output voltage error!  Shelfnum =0 groupid =1  powerid =2  The output voltage of the power abnormal(cur-out-volt:12)##power abnormal  Shelfnum =0 groupid =1  powerid =2  Power malfunction alarm resume##Power output voltage error!  Shelfnum =0 groupid =1  powerid =2  The output voltage of the power alarm resume(cur-out-volt:12)",
+        "label": 1
+    },
+    {
+        "part": 3,
+        "caseid": 80,
+        "content": "Power abnormal!  Shelfnum =0 groupid =2  powerid =PWRB1 Malfunction resume##Power abnormal!  Shelfnum =0 groupid =2  powerid =PWRB3 Malfunction alarm##Power work abnormal!  Shelfnum =0 groupid =1  powerid =PWRA1 work abnormal resume##Power work abnormal!  Shelfnum =0 groupid =2  powerid =PWRB3 work abnormal resume##TC guard delay  SPANTREE-TCGUARD_DELAY: TC packets received in port smartgroup1 instance 0 exceeded threshold,processing will be delayed##Power work abnormal!  Shelfnum =0 groupid =2  powerid =PWRB3 work abnormal alarm##Power abnormal!  Shelfnum =0 groupid =1  powerid =PWRA1 Malfunction alarm##Power work abnormal!  Shelfnum =0 groupid =1  powerid =PWRA3 work abnormal alarm##Power abnormal!  Shelfnum =0 groupid =2  powerid =PWRB1 Malfunction alarm##Power abnormal!  Shelfnum =0 groupid =2  powerid =PWRB3 Malfunction resume##Power abnormal!  Shelfnum =0 groupid =1  powerid =PWRA3 Malfunction resume##Power work abnormal!  Shelfnum =0 groupid =1  powerid =PWRA1 work abnormal alarm##Power abnormal!  Shelfnum =0 groupid =1  powerid =PWRA3 Malfunction alarm##Power input abnormal!  Shelfnum =0 groupid =1  powerid =PWRA1 input abnormal resume##Power work abnormal!  Shelfnum =0 groupid =1  powerid =PWRA3 work abnormal resume##Power work abnormal!  Shelfnum =0 groupid =2  powerid =PWRB1 work abnormal alarm##Power abnormal!  Shelfnum =0 groupid =1  powerid =PWRA1 Malfunction resume",
+        "label": 1
+    },
+    {
+        "part": 3,
+        "caseid": 241,
+        "content": "FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=180,tInlet=4320,tInletDelta=432,outlet=180,tOutLet=3700,tOutLetDelta=400##Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 244,
+        "content": "Fancard malfunction!  shelfnum =0  Fanid =9 abnormal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error:pwm=2800,inlet=5640,outlet=0##Fancard malfunction!  shelfnum =0  Fanid =9 normal##FAN Speed malfunction!  Shelfnum =0 Fanid = 9 Fan Speed Error cancel!",
+        "label": 2
+    },
+    {
+        "part": 3,
+        "caseid": 673,
+        "content": "Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol DOWN##Port down reason  Interface xgei-0/1/1/29 is down, due to Los##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol UP##Interface layer2 status.  The interface(index=31,name='xgei-0/1/1/29') layer2 status turned into protocol DOWN##Interface status.  The interface(index=31,name='xgei-0/1/1/29') turned into protocol UP",
+        "label": 4
+    },
+    {
+        "part": 3,
+        "caseid": 880,
+        "content": "Receiving CRC packets performance.  The interface(xgei-0/2/0/9) ingress FCSError total packet is 20(threshhold range from 0 to 10 per 10 seconds).",
+        "label": 6
+    },
+    {
+        "part": 3,
+        "caseid": 930,
+        "content": "STP port instance state changed  Port smartgroup38 instance 0 state change disabled->discard##STP port instance state changed  Port smartgroup38 instance 0 state change discard->learn##STP port instance state changed  Port smartgroup17 instance 0 state change discard->learn##Port packet aged  Instance 0 port smartgroup17 received packet information aged##STP port instance state changed  Port smartgroup26 instance 0 state change discard->learn##Port packet aged  Instance 0 port smartgroup38 received packet information aged##Port packet aged  Instance 0 port smartgroup28 received packet information aged##Port packet aged  Instance 0 port smartgroup26 received packet information aged",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 935,
+        "content": "STP port instance state changed  Port smartgroup27 instance 0 state change discard->learn##STP port instance state changed  Port smartgroup27 instance 0 state change disabled->discard##Port packet aged  Instance 0 port smartgroup27 received packet information aged",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 937,
+        "content": "Port packet aged  Instance 0 port smartgroup12 received packet information aged##STP port instance state changed  Port smartgroup12 instance 0 state change disabled->discard##STP port instance state changed  Port smartgroup12 instance 0 state change discard->learn",
+        "label": 7
+    },
+    {
+        "part": 3,
+        "caseid": 1068,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:16680/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb225,VpnId:68,Local/Peer:192.168.61.45/192.168.149.130,SessionName:zenic_bfd_268.",
+        "label": 8
+    },
+    {
+        "part": 3,
+        "caseid": 1116,
+        "content": "SessionInfo :  [Session Down For FTM_UP_DOWN]Ld:18247/Rd:0,Protocol:INSTANCE,singleHop,IfName:irb796,VpnId:109,Local/Peer:2409:8027:5100:9:0:0:0:21FF/2409:8086:8419:3D12:0:0:0:2,SessionName:zenic_bfd_1195.",
+        "label": 8
+    }
+]

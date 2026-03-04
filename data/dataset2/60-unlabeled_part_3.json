@@ -1,0 +1,122 @@
+[
+    {
+        "caseid": 244,
+        "content": " Power Unit Pwr Unit Status | Power off/<*> | Deasserted### System Event #0xff | Timestamp Clock Sync | Asserted### Power Unit Pwr Unit Status | Power off/<*> | Asserted### System Boot Initiated | Initiated by power up | Asserted",
+        "label": 1,
+        "part": 3
+    },
+    {
+        "caseid": 673,
+        "content": " Processor CPU_CATERR | State Asserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### Processor CPU_CATERR | State Deasserted",
+        "label": 1,
+        "part": 3
+    },
+    {
+        "caseid": 937,
+        "content": " System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### Unknown #0x17 |  | Asserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### Processor CPU_CATERR | State Deasserted | Asserted### Processor CPU_CATERR | State Asserted | Asserted",
+        "label": 1,
+        "part": 3
+    },
+    {
+        "caseid": 1116,
+        "content": " Memory #0xf9 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 586,
+        "content": " Memory #0xe2 | Memory Device Disabled | Asserted### Version Change #0x8b | Hardware change detected | Asserted### System Boot Initiated BIOS_Boot_UP | Initiated by power up | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 930,
+        "content": " Memory CPU1E1_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 978,
+        "content": " System Boot Initiated #0xe0 | Initiated by power up | Asserted### Memory #0xe2 | Correctable ECC | Asserted### OS Boot #0xe0 | boot completed - device not specified | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 1129,
+        "content": " Memory #0xf9 | Correctable ECC | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted### Memory #0xf9 | Uncorrectable ECC | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 1224,
+        "content": " Memory CPU0F0_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 525,
+        "content": " Memory #0xe2 | Uncorrectable ECC | Asserted### Unknown Chassis_Control |  | Asserted### System Boot Initiated BIOS_Boot_UP | Initiated by power up | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 1068,
+        "content": " Fan |  | Asserted### Memory #0xe2 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 1183,
+        "content": " Memory #0xe2 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 1231,
+        "content": " Memory #0xe2 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 111,
+        "content": " Memory #0xe2 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 722,
+        "content": " System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted### Memory CPU0A1_DIMM_Stat | Correctable ECC | Asserted### Memory CPU0A0_DIMM_Stat | Correctable ECC | Asserted### Processor CPU1_Status | Configuration Error | Asserted### Processor CPU1_Status | IERR | Asserted### Memory CPU0A1_DIMM_Stat | Uncorrectable ECC | Asserted### Memory CPU0A0_DIMM_Stat | Uncorrectable ECC | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 539,
+        "content": " Memory #0xe2 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 880,
+        "content": " Memory DIMM001 | Presence Detected | Asserted### Memory DIMM130 | Uncorrectable ECC | Asserted### System Event System Error | Undetermined system hardware failure | Asserted### System Boot Initiated SysRestart | System Restart | Asserted### Memory DIMM000 | Presence Detected | Deasserted### System ACPI Power State ACPI State | S4/<*> soft-off | Asserted### Memory DIMM130 | Uncorrectable ECC | Deasserted### System Event System Error | Undetermined system hardware failure | Deasserted### System ACPI Power State ACPI State | S0/<*> working | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 69,
+        "content": " Event Logging Disabled SEL_Status | Log almost full | Asserted### Power Supply PS1_Status | Presence detected | Asserted### System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Power Supply PS2_Status | Presence detected | Asserted### Microcontroller/<*> BMC_Boot_Up | Device Enabled | Asserted",
+        "label": 3,
+        "part": 3
+    },
+    {
+        "caseid": 325,
+        "content": " System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted### OS Boot #0xe9 | boot completed - device not specified | Asserted",
+        "label": 3,
+        "part": 3
+    },
+    {
+        "caseid": 241,
+        "content": " OS Critical Stop OS_Status | OS graceful shutdown | Asserted### OS Stop/<*> OS_Status | OS graceful shutdown | Asserted### System ACPI Power State Power_Status | Legacy OFF state | Asserted### System ACPI Power State Power_Status | Legacy ON state | Asserted### OS Boot OS_Boot | boot completed - device not specified | Asserted### System Boot Initiated System_Restart | System Restart | Asserted",
+        "label": 3,
+        "part": 3
+    }
+]

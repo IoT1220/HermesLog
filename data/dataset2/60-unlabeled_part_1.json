@@ -1,0 +1,122 @@
+[
+    {
+        "caseid": 950,
+        "content": " System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Memory #0xe2 | Correctable ECC | Asserted### System Boot Initiated #0xe0 | Initiated by power up | Asserted### OS Boot #0xe0 | boot completed - device not specified | Asserted### Processor CPU_CATERR | State Asserted | Asserted### Unknown #0xc5 |  | Asserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### Processor #0xe4 | Configuration Error | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 970,
+        "content": " System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### Processor CPU0_Status | IERR | Asserted### Processor CPU0_Status | IERR | Deasserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Management Subsys Health System_Health | Sensor access degraded or unavailable | Deasserted### Management Subsys Health System_Health | Sensor access degraded or unavailable | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 523,
+        "content": " Processor CPU0_Status | IERR | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 10,
+        "content": " Processor CPU_CATERR | State Asserted | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 30,
+        "content": " Processor CPU_CATERR | State Asserted | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 15,
+        "content": " System Event #0xff | Timestamp Clock Sync | Asserted### System Boot Initiated | Initiated by warm reset | Asserted### Unknown CPU0 CATERR |  | Asserted### Microcontroller #0x3b | Transition to Running | Asserted### System Boot Initiated | Initiated by power up | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 25,
+        "content": " Processor CPU1_Status | IERR | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 5,
+        "content": " Processor CPU_CATERR | State Asserted | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 146,
+        "content": " Event Logging Disabled SEL_Status | Log area reset/<*> | Asserted### Memory #0xf9 | Correctable ECC | Asserted### Event Logging Disabled SEL_Status | Log almost full | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 0,
+        "content": " Memory #0xe2 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 80,
+        "content": " Memory MEM_CHH1_Status | Correctable ECC | Asserted### OS Boot BIOS_Boot_Up | boot completed - device not specified | Asserted### System Boot Initiated System Restart | System Restart | Asserted### Memory MEM_CHA1_Status | Uncorrectable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 1139,
+        "content": " Memory CPU0D0_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 520,
+        "content": " Memory Memory_Status | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 1137,
+        "content": " Memory Memory_Status | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 35,
+        "content": " Memory CPU1E0_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 40,
+        "content": " OS Boot #0xe9 | boot completed - device not specified | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted### System Event #0x10 | Timestamp Clock Sync | Asserted### Memory #0xf9 | Uncorrectable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 552,
+        "content": " Memory #0xe2 | Uncorrectable ECC | Asserted### Memory #0xe2 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 20,
+        "content": " Memory #0xe2 | Uncorrectable ECC | Asserted### System Boot Initiated BIOS_Boot_UP | Initiated by power up | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 404,
+        "content": " System Boot Initiated #0xe0 | Initiated by power up | Asserted### Unknown Chassis_Control |  | Asserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 935,
+        "content": " Drive Slot / Bay HDD_R_3_Status | Drive Fault | Deasserted### Drive Slot / Bay HDD_R_3_Status | Drive Fault | Asserted",
+        "label": 3,
+        "part": 1
+    }
+]

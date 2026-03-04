@@ -1,0 +1,122 @@
+[
+    {
+        "caseid": 11,
+        "content": " Processor CPU_CATERR | State Asserted | Asserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 983,
+        "content": " Power Supply PS2_Status | AC out-of-range, but present | Asserted### Power Supply PS1_Status | AC out-of-range, but present | Asserted### Power Supply PS2_Status | AC out-of-range, but present | Deasserted### Management Subsys Health System_Health | Sensor access degraded or unavailable | Asserted### Power Supply PS2_Status | Power Supply AC lost | Deasserted### Microcontroller BMC_Boot_Up | Device Enabled | Asserted### Processor CPU0_Status | Presence detected | Asserted### Processor CPU0_Status | IERR | Deasserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### Power Supply PS1_Status | Power Supply AC lost | Asserted### Power Supply PS1_Status | Presence detected | Asserted### Power Supply PS2_Status | Power Supply AC lost | Asserted### Processor CPU0_Status | IERR | Asserted### System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Power Supply PS2_Status | Presence detected | Asserted### Management Subsys Health System_Health | Sensor access degraded or unavailable | Deasserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 1,
+        "content": " Processor CPU1_Status | IERR | Asserted### Memory CPU1C0_DIMM_Stat | Uncorrectable ECC | Asserted### Memory CPU1C0_DIMM_Stat | Correctable ECC | Asserted### Processor CPU1_Status | Configuration Error | Asserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 156,
+        "content": " Processor CPU_CATERR | State Deasserted | Asserted### Processor CPU_CATERR | State Asserted | Asserted### Processor CPU1_Status | Configuration Error | Asserted### Processor CPU1_Status | Configuration Error | Deasserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 1002,
+        "content": " Unknown #0x17 |  | Asserted### Processor CPU_CATERR | State Asserted | Asserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 31,
+        "content": " Memory CPU1E0_DIMM_Stat | Uncorrectable ECC | Asserted### Processor CPU0_Status | Configuration Error | Asserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 6,
+        "content": " Processor CPU_CATERR | State Deasserted | Asserted### OS Boot #0xe9 | boot completed - device not specified | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### Microcontroller #0x16 | Transition to Running | Asserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### System Event #0x10 | Timestamp Clock Sync | Asserted### System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Unknown #0x17 |  | Asserted### Processor CPU_CATERR | State Asserted | Asserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 555,
+        "content": " Processor CPU_CATERR | State Deasserted | Asserted### OS Boot #0xe9 | boot completed - device not specified | Asserted### System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### Processor CPU_CATERR | State Asserted### Watchdog2 IPMI_Watchdog | Hard reset | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### System Event #0x10 | Timestamp Clock Sync | Asserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 36,
+        "content": " Memory MEM_CHB0_Status | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 16,
+        "content": " Memory #0xe2 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 514,
+        "content": " Processor CPU1_Status | IERR | Asserted### Memory CPU0B0_DIMM_Stat | Uncorrectable ECC | Asserted### Processor CPU0_Status | Configuration Error | Asserted### Processor CPU1_Status | Configuration Error | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 550,
+        "content": " Memory CPU1A0_DIMM_Stat | Uncorrectable ECC | Asserted### Memory CPU1A0_DIMM_Stat | Correctable ECC | Asserted### System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Processor CPU0_Status | Configuration Error | Deasserted### Memory CPU1A0_DIMM_Stat | Memory Device Disabled | Asserted### Processor CPU0_Status | Configuration Error | Asserted### Processor CPU_CATERR | State Deasserted | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### Processor CPU0_Status | Presence detected | Asserted### Watchdog2 IPMI_Watchdog | Power cycle | Asserted### Memory CPU1A0_DIMM_Stat | Correctable ECC | Deasserted### Processor CPU_CATERR | State Asserted | Asserted### Memory CPU1A0_DIMM_Stat | Uncorrectable ECC | Deasserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 26,
+        "content": " Memory #0xf9 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 177,
+        "content": " Memory #0xe2 | Uncorrectable ECC | Asserted### Memory #0xe2 | Memory Device Disabled | Asserted### Version Change #0x8b | Hardware change detected | Asserted### System Boot Initiated BIOS_Boot_UP | Initiated by power up | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 21,
+        "content": " Memory CPU1A0_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 1001,
+        "content": " Memory #0xe2 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 203,
+        "content": " Event Logging Disabled SEL_Status | Log area reset/<*> | Asserted",
+        "label": 3,
+        "part": 2
+    },
+    {
+        "caseid": 768,
+        "content": " Memory DIMM000 | Presence Detected | Deasserted### System ACPI Power State ACPI State | S4/<*> soft-off | Asserted### Memory DIMM130 | Presence Detected | Asserted### System ACPI Power State ACPI State | S0/<*> working | Asserted### Memory DIMM111 | Presence Detected | Deasserted### Memory DIMM000 | Presence Detected | Asserted### Memory DIMM030 | Presence Detected | Asserted### Memory DIMM001 | Presence Detected | Deasserted### Memory DIMM101 | Presence Detected | Asserted### System Boot Initiated SysRestart | System Restart | Asserted",
+        "label": 3,
+        "part": 2
+    },
+    {
+        "caseid": 1174,
+        "content": " Power Supply PSU1_Supply | Failure detected | Asserted### Power Supply PSU1_Supply | Failure detected | Deasserted",
+        "label": 3,
+        "part": 2
+    },
+    {
+        "caseid": 41,
+        "content": " Processor CPU_CATERR | State Asserted | Asserted",
+        "label": 3,
+        "part": 2
+    }
+]
