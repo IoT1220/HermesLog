@@ -1,0 +1,362 @@
+[
+    {
+        "caseid": 1340,
+        "content": " System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### OS Boot #0xe9 | boot completed - device not specified | Asserted### System ACPI Power State ACPI_PWR_Status | Legacy ON state | Asserted### System Event | Timestamp Clock Sync | Asserted### System Event #0x10 | Timestamp Clock Sync | Asserted### System ACPI Power State ACPI_PWR_Status | Legacy OFF state | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted### Processor #0xf5 | Configuration Error | Asserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 12479,
+        "content": " Processor CPU0_Status | Configuration Error | Asserted### Processor CPU0_Status | Configuration Error | Deasserted### System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted### Processor CPU1_Status | IERR | Asserted### Management Subsys Health System_Health | Sensor access degraded or unavailable | Asserted### Slot / Connector PCIE_Status | Fault Status | Asserted### Processor CPU1_Status | Configuration Error | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 10909,
+        "content": " Drive Slot / Bay #0x1e | Drive Present | Deasserted### Add-in Card #0x1b | Device Present | Asserted### Drive Slot #0x16 | Drive Present | Deasserted### Memory #0x54 | Presence Detected | Deasserted### Drive Slot / Bay #0x1c | Drive Present | Deasserted### Memory #0x5e | Presence Detected | Asserted### Memory #0x51 | Presence Detected | Asserted### Drive Slot #0x15 | Drive Present | Asserted### Drive Slot #0x1f | Drive Present | Deasserted### Memory #0x4b | Presence Detected | Deasserted### Processor #0x0f | IERR | Asserted### Drive Slot / Bay #0x20 | Drive Present | Asserted### Drive Slot #0x41 | Drive Present | Deasserted### Drive Slot / Bay #0x41 | Drive Present | Asserted### Drive Slot #0x41 | Drive Present | Asserted### Drive Slot #0x1f | Drive Present | Asserted### Memory #0x48 | Presence Detected | Asserted### System ACPI Power State #0x04 | S0/<*> working | Asserted### Drive Slot / Bay #0x15 | Drive Present | Asserted### Processor #0x13 | Presence detected | Asserted### Drive Slot / Bay #0x44 | Drive Present | Asserted### Drive Slot #0x1c | Drive Present | Asserted### Power Unit #0x18 | Device Present | Asserted### Drive Slot / Bay #0x1e | Drive Present | Asserted### System Boot Initiated #0x07 | System Restart | Asserted### Power Unit #0x25 | Device Present | Asserted### Drive Slot #0x16 | Drive Present | Asserted### Memory #0x4b | Presence Detected | Asserted### Drive Slot #0x43 | Drive Present | Asserted### Processor #0x0f | Presence detected | Asserted### Memory #0x57 | Presence Detected | Asserted### Memory #0x51 | Presence Detected | Deasserted### Power Supply #0x02 | Failure detected | Asserted### Drive Slot #0x1e | Drive Present | Deasserted### Memory #0x5a | Presence Detected | Deasserted### System ACPI Power State #0x04 | S4/<*> soft-off | Asserted### Drive Slot / Bay #0x43 | Drive Present | Asserted### Drive Slot / Bay #0x15 | Drive Present | Deasserted### Button #0x21 | State Asserted | Asserted### Button #0x06 | Power Button pressed | Asserted### Memory #0x5a | Presence Detected | Asserted### Power Supply #0x17 | Power Supply AC lost | Asserted### Drive Slot / Bay #0x44 | Drive Present | Deasserted### Drive Slot / Bay #0x1f | Drive Present | Deasserted### Power Supply #0x02 | Failure detected | Deasserted### Processor #0x13 | IERR | Asserted",
+        "label": 1,
+        "part": 3
+    },
+    {
+        "caseid": 10793,
+        "content": " System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### Unknown #0x17 |  | Asserted### Processor CPU_CATERR | State Asserted | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 4726,
+        "content": " System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted### OS Boot #0xe9 | boot completed - device not specified | Asserted### Processor CPU_CATERR | State Asserted | Asserted### Unknown #0x17 |  | Asserted",
+        "label": 1,
+        "part": 3
+    },
+    {
+        "caseid": 12629,
+        "content": " System Event #0x10 | Timestamp Clock Sync | Asserted### OS Boot #0xe9 | boot completed - device not specified | Asserted### Processor #0xfa | Configuration Error | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted",
+        "label": 1,
+        "part": 3
+    },
+    {
+        "caseid": 12625,
+        "content": " Management Subsys Health System_Health | Sensor access degraded or unavailable | Deasserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted### Management Subsys Health System_Health | Sensor access degraded or unavailable | Asserted### Processor CPU0_Status | Configuration Error | Asserted### Processor CPU0_Status | Uncorrectable machine check exception | Asserted### Processor CPU1_Status | Uncorrectable machine check exception | Deasserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 11038,
+        "content": " Memory #0xf9 | Correctable ECC | Asserted### Processor CPU_CATERR | State Asserted | Asserted### Unknown #0x17 |  | Asserted### Memory #0xf9 | Uncorrectable ECC | Asserted### OS Boot #0xe9 | boot completed - device not specified | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted",
+        "label": 1,
+        "part": 3
+    },
+    {
+        "caseid": 10135,
+        "content": " Processor CPU1_Status | Configuration Error | Asserted### Memory CPU1A0_DIMM_Stat | Uncorrectable ECC | Asserted### Memory CPU1A0_DIMM_Stat | Correctable ECC | Asserted### Processor CPU1_Status | Configuration Error | Deasserted### Memory CPU1A0_DIMM_Stat | Correctable ECC | Deasserted### Memory CPU1A0_DIMM_Stat | Uncorrectable ECC | Deasserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 12428,
+        "content": " Unknown #0x17 |  | Asserted### Processor CPU_CATERR | State Asserted | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 574,
+        "content": " System Boot Initiated System Restart | System Restart | Asserted### OS Boot BIOS_Boot_Up | boot completed - device not specified | Asserted",
+        "label": 1,
+        "part": 3
+    },
+    {
+        "caseid": 8181,
+        "content": " Processor CPU1_Status | Configuration Error | Deasserted### System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted### Processor CPU1_Status | Configuration Error | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 9958,
+        "content": " Memory CPU0E0_DIMM_Stat | Memory Device Disabled | Deasserted### Memory CPU1E0_DIMM_Stat | Correctable ECC | Deasserted### Memory CPU0E0_DIMM_Stat | Uncorrectable ECC | Deasserted### Management Subsys Health System_Health | Sensor access degraded or unavailable | Deasserted### Memory CPU1B0_DIMM_Stat | Correctable ECC | Deasserted### Memory CPU0E0_DIMM_Stat | Uncorrectable ECC | Asserted### Memory CPU1B0_DIMM_Stat | Memory Device Disabled | Deasserted### System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted### System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Memory CPU0E0_DIMM_Stat | Memory Device Disabled | Asserted### Processor CPU0_Status | Configuration Error | Asserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### Processor CPU0_Status | Configuration Error | Deasserted### Management Subsystem Health System_Health | Sensor access degraded or unavailable | Deasserted### Memory CPU1B0_DIMM_Stat | Correctable ECC | Asserted### Management Subsystem Health System_Health | Sensor access degraded or unavailable | Asserted### Management Subsys Health System_Health | Sensor access degraded or unavailable | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 1479,
+        "content": " Slot / Connector Port2 Link Down | Slot is Disabled | Asserted### Slot/<*> Port2 Link Down | Slot is Disabled | Asserted### Slot/<*> Port1 Link Down | Slot is Disabled | Deasserted### Slot / Connector Port2 Link Down | Slot is Disabled | Deasserted### Slot/<*> Port2 Link Down | Slot is Disabled | Deasserted### Slot / Connector Port1 Link Down | Slot is Disabled | Deasserted### Slot / Connector Port1 Link Down | Slot is Disabled | Asserted### Processor CPU1 Status | Uncorrectable machine check exception | Deasserted### Processor CPU1 Status | Uncorrectable machine check exception | Asserted### Processor CPU1 Status |  | Asserted### Processor CPU1 Status |  | Deasserted### Slot/<*> Port1 Link Down | Slot is Disabled | Asserted### System Boot Initiated SysRestart | System Restart | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 15131,
+        "content": " OEM record c3 | 000000 | 0203c0a80101### System ACPI Power State #0x7d | S0/<*> working | Asserted### System ACPI Power State #0x7d | S4/<*> soft-off | Asserted### Processor CPU_CATERR | IERR | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 13704,
+        "content": " System Boot Initiated #0xe0 | Initiated by power up | Asserted### Processor #0x7c | Configuration Error | Asserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 2478,
+        "content": " Microcontroller #0xff |  | Deasserted### Unknown CPU0 MCERR |  | Deasserted### System Event #0xff | Timestamp Clock Sync | Asserted### System Boot Initiated | Initiated by power up | Asserted### Unknown CPU0 MCERR |  | Asserted### Power Unit Pwr Unit Status | Power off/<*> | Deasserted### Power Unit Pwr Unit Status | Power off/<*> | Asserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 9630,
+        "content": " Processor CPU_CATERR | State Asserted | Asserted### Memory #0xe2 | Uncorrectable ECC | Asserted### Unknown #0xc5 |  | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 13218,
+        "content": " Unknown #0x17 |  | Asserted### Memory #0xe2 | Correctable ECC | Asserted### Memory #0xe2 | Uncorrectable ECC | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 14801,
+        "content": " Processor CPU_CATERR | State Asserted | Asserted### Memory #0xe2 | Uncorrectable ECC | Asserted### Unknown #0xc5 |  | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 413,
+        "content": " Memory #0xf9 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 2289,
+        "content": " Memory CPU0C0_DIMM_Stat | Uncorrectable ECC | Deasserted### Processor CPU0_Status | Configuration Error | Deasserted### Memory CPU0C0_DIMM_Stat | Uncorrectable ECC | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### Processor CPU0_Status | Configuration Error | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 15999,
+        "content": " OEM record c1 | 000000 | 0600c0a80101### Memory #0xf9 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 14735,
+        "content": " Memory #0xf9 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 15375,
+        "content": " System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Memory #0xe2 | Uncorrectable ECC | Asserted### Power Supply PS1_Status | Presence detected | Asserted### Unknown Chassis_Control |  | Asserted### Memory #0xe2 | Correctable ECC | Asserted### Event Logging Disabled SEL_Status | Log area reset/<*> | Asserted### System Boot Initiated #0xe0 | Initiated by power up | Asserted### Microcontroller BMC_Boot_Up | Device Enabled | Asserted### Microcontroller/<*> BMC_Boot_Up | Device Enabled | Asserted### Processor CPU0_Status | Presence detected | Asserted### Button Button_Pressed | Power Button pressed | Asserted### Power Supply PS2_Status | Power Supply AC lost | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 23,
+        "content": " Memory CPU0D0_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 6923,
+        "content": " Memory #0xe2 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 14628,
+        "content": " Memory CPU0F0_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 3993,
+        "content": " Memory CPU0B1_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 1580,
+        "content": " System Event System Error | Undetermined system hardware failure | Deasserted### Memory DIMM130 | Uncorrectable ECC | Deasserted### System ACPI Power State ACPI State | S4/<*> soft-off | Asserted### System Boot Initiated SysRestart | System Restart | Asserted### Memory DIMM011 | Presence Detected | Asserted### Event Logging Disabled SEL Status | Log area reset/<*> | Asserted### Memory DIMM001 | Presence Detected | Asserted### System ACPI Power State ACPI State | S0/<*> working | Asserted### Memory DIMM130 | Presence Detected | Deasserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 3021,
+        "content": " Memory CPU1B0_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 9744,
+        "content": " System Boot Initiated #0xe0 | Initiated by hard reset | Asserted### OS Boot #0xe0 | boot completed - device not specified | Asserted### System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Memory #0xe2 | Uncorrectable ECC | Asserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### Watchdog2 IPMI_Watchdog | Power cycle | Asserted### System Boot Initiated #0xe0 | Initiated by power up | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 8326,
+        "content": " Memory CPU1F0_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 7638,
+        "content": " Memory CPU0C0_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 10569,
+        "content": " Memory CPU1F0_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 2767,
+        "content": " System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### Processor CPU1_Status | Configuration Error | Deasserted### Memory CPU1D0_DIMM_Stat | Uncorrectable ECC | Deasserted### Memory CPU1D0_DIMM_Stat | Uncorrectable ECC | Asserted### Processor CPU1_Status | Configuration Error | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 13472,
+        "content": " System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Processor CPU0_Status | Configuration Error | Deasserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### Processor CPU0_Status | Configuration Error | Asserted### Memory CPU1A0_DIMM_Stat | Uncorrectable ECC | Asserted### Processor CPU0_Status | IERR | Asserted### Memory CPU1A0_DIMM_Stat | Uncorrectable ECC | Deasserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### Processor CPU1_Status | IERR | Deasserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 15194,
+        "content": " Memory #0xf9 | Correctable ECC | Asserted### Processor CPU_CATERR | State Asserted | Asserted### Unknown #0xc5 |  | Asserted### Memory #0xf9 | Uncorrectable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 2673,
+        "content": " System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### OS Boot #0xe9 | boot completed - device not specified | Asserted### Memory #0xf9 | Memory Device Disabled | Asserted### System Event #0x10 | Timestamp Clock Sync | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 9092,
+        "content": " Event Logging Disabled SEL_Status | Log area reset/<*> | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 12690,
+        "content": " Memory CPU0A1_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 3386,
+        "content": " Memory #0xe2 | Correctable ECC logging limit reached | Asserted",
+        "label": 2,
+        "part": 3
+    },
+    {
+        "caseid": 4887,
+        "content": " Memory CPU1E0_DIMM_Stat | Uncorrectable ECC | Asserted### Processor CPU1_Status | Configuration Error | Deasserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### Memory CPU1E0_DIMM_Stat | Uncorrectable ECC | Deasserted### Processor CPU1_Status | Configuration Error | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 3629,
+        "content": " System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted",
+        "label": 3,
+        "part": 1
+    },
+    {
+        "caseid": 199,
+        "content": " Power Supply PS2_Status | Power Supply AC lost | Deasserted### System Boot Initiated #0xe0 | Initiated by power up | Asserted### Power Supply PS2_Status | Presence detected | Asserted### Power Supply PS2_Status | Presence detected | Deasserted### Event Logging Disabled SEL_Status | Log area reset/<*> | Asserted### Power Supply PS2_Status | Power Supply AC lost | Asserted",
+        "label": 3,
+        "part": 2
+    },
+    {
+        "caseid": 7709,
+        "content": " Unknown Chassis_Control |  | Asserted### System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### System Boot Initiated #0xe0 | Initiated by power up | Asserted",
+        "label": 3,
+        "part": 3
+    },
+    {
+        "caseid": 6760,
+        "content": " Power Supply PS2_Status | Power Supply AC lost | Asserted### Power Supply PS2_Status | AC out-of-range, but present | Deasserted### Power Supply PS2_Status | Power Supply AC lost | Deasserted### Power Supply PS2_Status | AC out-of-range, but present | Asserted",
+        "label": 3,
+        "part": 2
+    },
+    {
+        "caseid": 7198,
+        "content": " Drive Slot NVME1_Stat | Drive Present | Asserted### Slot / Connector IB_Card_Stat | Identify Status | Deasserted### Slot / Connector M2_Card_Stat | Identify Status | Asserted### Drive Slot / Bay DISK56_Stat | Drive Present | Asserted### Slot / Connector IB_Card_Stat | Identify Status | Asserted### Event Logging Disabled SEL_Status | Log almost full | Asserted### Drive Slot DISK52_Stat | Drive Present | Deasserted### Drive Slot / Bay DISK56_Stat | Drive Present | Deasserted### Microcontroller BMC_Boot_Up | Device Enabled | Asserted### Slot / Connector PCIE_Card1_Stat | Identify Status | Asserted### Drive Slot / Bay DISK53_Stat | Drive Present | Deasserted### Slot/<*> IB_Card_Stat | Identify Status | Deasserted### Drive Slot / Bay NVME1_Stat | Drive Present | Asserted### Slot / Connector PCIE_Card2_Stat | Identify Status | Asserted### System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Processor CPU0_Status | Presence detected | Asserted### Slot/<*> OCP_Card_Stat | Identify Status | Asserted### Drive Slot / Bay DISK50_Stat | Drive Present | Asserted### Slot/<*> PCIE_Card2_Stat | Identify Status | Asserted### Button Button_Pressed | State Asserted | Asserted### Slot / Connector OCP_Card_Stat | Identify Status | Asserted### Slot/<*> M2_Card_Stat | Identify Status | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### Slot/<*> IB_Card_Stat | Identify Status | Asserted### Microcontroller/<*> BMC_Boot_Up | Device Enabled | Asserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### Power Supply PS1_Status | Presence detected | Asserted### Power Supply PS2_Status | Presence detected | Asserted### Drive Slot NVME2_Stat | Drive Present | Asserted### Slot/<*> PCIE_Card1_Stat | Identify Status | Asserted### Drive Slot / Bay NVME2_Stat | Drive Present | Asserted",
+        "label": 3,
+        "part": 2
+    },
+    {
+        "caseid": 5879,
+        "content": " Temperature Temp_DIMM_DEF | Upper Non-critical going high | Asserted | Reading 98 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_KLM | Upper Critical going high | Asserted | Reading 121 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Non-critical going high | Asserted | Reading 94 &gt; Threshold 84 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Deasserted | Reading 62 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Non-critical going high | Deasserted | Reading 62 &gt; Threshold 84 degrees C### Temperature DIMMG1_Temp | Upper Non-critical going high | Asserted | Reading 125 &gt; Threshold 84 degrees C### Temperature DIMMG1_Temp | Upper Non-critical going high | Deasserted | Reading 53 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_KLM | Upper Critical going high | Deasserted | Reading 53 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_KLM | Upper Non-critical going high | Asserted | Reading 89 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_DEF | Upper Non-critical going high | Asserted | Reading 94 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_KLM | Upper Critical going high | Asserted | Reading 89 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Non-critical going high | Asserted | Reading 98 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_KLM | Upper Non-critical going high | Asserted | Reading 121 &gt; Threshold 84 degrees C### Processor CPU_CATERR | IERR | Asserted### Temperature Temp_DIMM_KLM | Upper Critical going high | Asserted | Reading 105 &gt; Threshold 85 degrees C### Temperature DIMMG1_Temp | Upper Non-critical going high | Asserted | Reading 105 &gt; Threshold 84 degrees C### Temperature DIMMG1_Temp | Upper Non-critical going high | Deasserted | Reading 51 &gt; Threshold 84 degrees C### Temperature DIMMG1_Temp | Upper Critical going high | Deasserted | Reading 51 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Asserted | Reading 94 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Non-critical going high | Deasserted | Reading 54 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_DEF | Upper Critical going high | Deasserted | Reading 54 &gt; Threshold 85 degrees C### Temperature DIMMG1_Temp | Upper Non-critical going high | Deasserted | Reading 61 &gt; Threshold 84 degrees C### Temperature DIMMG0_Temp | Upper Non-critical going high | Asserted | Reading 118 &gt; Threshold 84 degrees C### Temperature DIMMG1_Temp | Upper Critical going high | Deasserted | Reading 73 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Non-critical going high | Deasserted | Reading 82 &gt; Threshold 84 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Asserted | Reading 110 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Non-critical going high | Asserted | Reading 110 &gt; Threshold 84 degrees C### Temperature DIMMG0_Temp | Upper Non-critical going high | Asserted | Reading 114 &gt; Threshold 84 degrees C### Temperature DIMMG1_Temp | Upper Critical going high | Asserted | Reading 101 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_KLM | Upper Non-critical going high | Asserted | Reading 97 &gt; Threshold 84 degrees C### Temperature DIMMG1_Temp | Upper Critical going high | Asserted | Reading 97 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_KLM | Upper Critical going high | Deasserted | Reading 57 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Critical going high | Deasserted | Reading 70 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Critical going high | Deasserted | Reading 58 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_KLM | Upper Non-critical going high | Deasserted | Reading 69 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_KLM | Upper Critical going high | Deasserted | Reading 69 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Critical going high | Asserted | Reading 98 &gt; Threshold 85 degrees C### Temperature DIMMG1_Temp | Upper Critical going high | Deasserted | Reading 61 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Deasserted | Reading 58 &gt; Threshold 85 degrees C### Temperature DIMMG1_Temp | Upper Critical going high | Asserted | Reading 121 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Critical going high | Asserted | Reading 94 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Non-critical going high | Deasserted | Reading 58 &gt; Threshold 84 degrees C### Temperature DIMMG1_Temp | Upper Critical going high | Asserted | Reading 105 &gt; Threshold 85 degrees C### Temperature DIMMG1_Temp | Upper Non-critical going high | Asserted | Reading 101 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_KLM | Upper Non-critical going high | Asserted | Reading 125 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_KLM | Upper Critical going high | Deasserted | Reading 49 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Non-critical going high | Deasserted | Reading 66 &gt; Threshold 84 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Asserted | Reading 98 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Non-critical going high | Deasserted | Reading 66 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_DEF | Upper Critical going high | Deasserted | Reading 66 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Non-critical going high | Deasserted | Reading 70 &gt; Threshold 84 degrees C### Processor CPU_CATERR | Uncorrectable machine check exception | Asserted### Temperature Temp_DIMM_KLM | Upper Non-critical going high | Deasserted | Reading 41 &gt; Threshold 84 degrees C### Temperature CPU1_Margin_Temp | Lower Critical going low  | Asserted | Reading 0 &lt; Threshold 0 degrees C### Temperature CPU1_Margin_Temp | Lower Non-critical going low  | Asserted | Reading 0 &lt; Threshold 1 degrees C### Temperature DIMMG1_Temp | Upper Non-critical going high | Deasserted | Reading 73 &gt; Threshold 84 degrees C### Temperature DIMMG0_Temp | Upper Non-critical going high | Deasserted | Reading 82 &gt; Threshold 84 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Deasserted | Reading 82 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Non-critical going high | Asserted | Reading 122 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_DEF | Upper Critical going high | Asserted | Reading 122 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Non-critical going high | Asserted | Reading 122 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_KLM | Upper Critical going high | Asserted | Reading 109 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_KLM | Upper Non-critical going high | Asserted | Reading 109 &gt; Threshold 84 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Asserted | Reading 122 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_KLM | Upper Critical going high | Deasserted | Reading 41 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Asserted | Reading 118 &gt; Threshold 85 degrees C### Temperature DIMMG1_Temp | Upper Non-critical going high | Asserted | Reading 97 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_DEF | Upper Non-critical going high | Asserted | Reading 106 &gt; Threshold 84 degrees C### Temperature DIMMG0_Temp | Upper Non-critical going high | Deasserted | Reading 58 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_DEF | Upper Critical going high | Asserted | Reading 90 &gt; Threshold 85 degrees C### Temperature DIMMG1_Temp | Upper Critical going high | Asserted | Reading 109 &gt; Threshold 85 degrees C### Temperature DIMMG1_Temp | Upper Non-critical going high | Asserted | Reading 109 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_KLM | Upper Non-critical going high | Asserted | Reading 105 &gt; Threshold 84 degrees C### Temperature DIMMG0_Temp | Upper Non-critical going high | Asserted | Reading 106 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_DEF | Upper Critical going high | Asserted | Reading 106 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Non-critical going high | Deasserted | Reading 70 &gt; Threshold 84 degrees C### Management Subsys Health #0x8f | Management controller unavailable | Asserted### Temperature Temp_DIMM_DEF | Upper Critical going high | Asserted | Reading 114 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Non-critical going high | Asserted | Reading 114 &gt; Threshold 84 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Asserted | Reading 114 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Non-critical going high | Deasserted | Reading 74 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_DEF | Upper Critical going high | Deasserted | Reading 74 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Critical going high | Asserted | Reading 110 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Non-critical going high | Deasserted | Reading 74 &gt; Threshold 84 degrees C### Temperature DIMMG1_Temp | Upper Critical going high | Deasserted | Reading 57 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Deasserted | Reading 78 &gt; Threshold 85 degrees C### Temperature DIMMG1_Temp | Upper Non-critical going high | Deasserted | Reading 65 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_KLM | Upper Critical going high | Deasserted | Reading 65 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Critical going high | Deasserted | Reading 62 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_KLM | Upper Non-critical going high | Deasserted | Reading 53 &gt; Threshold 84 degrees C### Temperature DIMMG1_Temp | Upper Non-critical going high | Deasserted | Reading 57 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_DEF | Upper Critical going high | Asserted | Reading 102 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Non-critical going high | Deasserted | Reading 54 &gt; Threshold 84 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Deasserted | Reading 54 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_KLM | Upper Non-critical going high | Asserted | Reading 93 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_KLM | Upper Non-critical going high | Asserted | Reading 117 &gt; Threshold 84 degrees C### Temperature DIMMG1_Temp | Upper Non-critical going high | Asserted | Reading 93 &gt; Threshold 84 degrees C### Unknown #0x19 |  | Asserted### Temperature Temp_DIMM_KLM | Upper Non-critical going high | Deasserted | Reading 81 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_DEF | Upper Non-critical going high | Deasserted | Reading 78 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_DEF | Upper Critical going high | Deasserted | Reading 82 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Deasserted | Reading 66 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Asserted | Reading 106 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_KLM | Upper Non-critical going high | Asserted | Reading 101 &gt; Threshold 84 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Deasserted | Reading 74 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_KLM | Upper Non-critical going high | Deasserted | Reading 65 &gt; Threshold 84 degrees C### Temperature DIMMG1_Temp | Upper Non-critical going high | Asserted | Reading 121 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_KLM | Upper Non-critical going high | Deasserted | Reading 49 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_KLM | Upper Critical going high | Asserted | Reading 125 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Non-critical going high | Deasserted | Reading 62 &gt; Threshold 84 degrees C### Temperature DIMMG1_Temp | Upper Critical going high | Deasserted | Reading 53 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Deasserted | Reading 70 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Asserted | Reading 102 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_DEF | Upper Non-critical going high | Asserted | Reading 102 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_KLM | Upper Critical going high | Asserted | Reading 93 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_KLM | Upper Critical going high | Deasserted | Reading 81 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_KLM | Upper Non-critical going high | Deasserted | Reading 61 &gt; Threshold 84 degrees C### Temperature DIMMG1_Temp | Upper Critical going high | Deasserted | Reading 69 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Non-critical going high | Deasserted | Reading 78 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_DEF | Upper Critical going high | Deasserted | Reading 78 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_KLM | Upper Critical going high | Asserted | Reading 97 &gt; Threshold 85 degrees C### Temperature Temp_DIMM_KLM | Upper Critical going high | Deasserted | Reading 73 &gt; Threshold 85 degrees C### Temperature DIMMG1_Temp | Upper Critical going high | Deasserted | Reading 65 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Asserted | Reading 126 &gt; Threshold 85 degrees C### Temperature DIMMG1_Temp | Upper Non-critical going high | Asserted | Reading 117 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_DEF | Upper Critical going high | Asserted | Reading 126 &gt; Threshold 85 degrees C### Temperature DIMMG0_Temp | Upper Non-critical going high | Asserted | Reading 90 &gt; Threshold 84 degrees C### Temperature DIMMG0_Temp | Upper Critical going high | Asserted | Reading 90 &gt; Threshold 85 degrees C### Temperature DIMMG1_Temp | Upper Non-critical going high | Deasserted | Reading 81 &gt; Threshold 84 degrees C### Temperature Temp_DIMM_DEF | Upper Non-critical going high | Asserted | Reading 90 &gt; Threshold 84 degrees C",
+        "label": 3,
+        "part": 3
+    },
+    {
+        "caseid": 1859,
+        "content": " Memory DIMM031 | Presence Detected | Deasserted### Drive Slot DISK11 | Drive Fault | Asserted### Memory DIMM001 | Presence Detected | Asserted### Slot/<*> Port2 Link Down | Slot is Disabled | Asserted### Power Supply PS2 Status | Power Supply AC lost | Asserted### System ACPI Power State ACPI State | S0/<*> working | Asserted### System Boot Initiated SysRestart | System Restart | Asserted### Memory DIMM010 | Presence Detected | Deasserted### Drive Slot DISK8 | Drive Present | Deasserted### Button Power Button | Power Button pressed | Asserted### Slot/<*> Port1 Link Down | Slot is Disabled | Asserted### Drive Slot DISK8 | Drive Fault | Deasserted### System ACPI Power State ACPI State | S4/<*> soft-off | Asserted### Memory DIMM000 | Presence Detected | Deasserted### Button UID Button | State Asserted | Asserted### Slot/<*> Port2 Link Down | Slot is Disabled | Deasserted### Power Unit PS1 Presence | Device Present | Asserted### Microcontroller/<*> NTP Sync Failed | State Asserted | Asserted### Terminator LCD Presence | Device Absent | Asserted### Microcontroller/<*> BMC Boot Up | Device Enabled | Asserted### Boot Error Boot Error | No bootable media | Asserted### Power Supply PwrOk Sig. Drop | Failure detected | Asserted### Memory DIMM001 | Presence Detected | Deasserted### Add-in Card Riser2 Card | Device Present | Asserted### Memory DIMM010 | Presence Detected | Asserted### Power Unit PS2 Presence | Device Present | Asserted### Microcontroller/<*> BMC Time Hopping | State Asserted | Asserted### Processor CPU1 Status | Presence detected | Asserted### Drive Slot DISK11 | Drive Fault | Deasserted### Physical Security AreaIntrusion | General Chassis intrusion | Asserted### Drive Slot DISK10 | Drive Fault | Deasserted### Drive Slot DISK9 | Drive Present | Asserted### Memory DIMM130 | Presence Detected | Deasserted### Memory DIMM000 | Presence Detected | Asserted### Drive Slot DISK11 | Drive Present | Asserted### Processor CPU2 Status | Presence detected | Asserted### Drive Slot DISK10 | Drive Fault | Asserted### Drive Slot DISK9 | Drive Fault | Asserted### Memory DIMM100 | Presence Detected | Deasserted### Boot Error Boot Error | No bootable media | Deasserted",
+        "label": 3,
+        "part": 1
+    },
+    {
+        "caseid": 13122,
+        "content": " System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Microcontroller BMC_Boot_Up | Device Enabled | Asserted### Power Supply PS2_Status | Presence detected | Asserted### Power Supply PS1_Status | Presence detected | Asserted",
+        "label": 3,
+        "part": 1
+    },
+    {
+        "caseid": 368,
+        "content": " OS Boot BIOS_Boot_Up | boot completed - device not specified | Asserted### OS Critical Stop OS Status | OS graceful shutdown | Asserted### System ACPI Power State Power Status | Legacy OFF state | Asserted### System Boot Initiated System Restart | System Restart | Asserted### System ACPI Power State Power Status | Legacy ON state | Asserted",
+        "label": 3,
+        "part": 2
+    },
+    {
+        "caseid": 10626,
+        "content": " System Boot Initiated BIOS_Boot_UP | Initiated by power up | Asserted### Version Change #0x8c | Hardware change detected | Asserted### Unknown Chassis_Control |  | Asserted",
+        "label": 3,
+        "part": 1
+    },
+    {
+        "caseid": 9678,
+        "content": " Processor CPU1_Status | Configuration Error | Deasserted### Memory CPU1B0_DIMM_Stat | Correctable ECC | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### Memory CPU1B0_DIMM_Stat | Uncorrectable ECC | Asserted### Processor CPU0_Status | Configuration Error | Asserted### Processor CPU1_Status | Configuration Error | Asserted### Memory CPU1B0_DIMM_Stat | Correctable ECC | Deasserted### Memory CPU1B0_DIMM_Stat | Uncorrectable ECC | Deasserted### Event Logging Disabled SEL_Status | Log almost full | Asserted",
+        "label": 3,
+        "part": 2
+    },
+    {
+        "caseid": 2363,
+        "content": " OS Boot #0xe0 | boot completed - device not specified | Asserted### System Boot Initiated #0xe0 | Initiated by hard reset | Asserted### Microcontroller BMC_Boot_Up | Device Enabled | Asserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Power Supply PS2_Status | Presence detected | Asserted### Microcontroller/<*> BMC_Boot_Up | Device Enabled | Asserted### Microcontroller/<*> BMC_Boot_Up | Device Enabled",
+        "label": 3,
+        "part": 2
+    },
+    {
+        "caseid": 2324,
+        "content": " Drive Slot / Bay DISK58_Stat | Drive Fault | Asserted",
+        "label": 3,
+        "part": 1
+    },
+    {
+        "caseid": 13185,
+        "content": " Unknown Chassis_control |  | Asserted### OEM #0xff | OEM Specific | Asserted### Unknown #0xff |  | Asserted",
+        "label": 3,
+        "part": 1
+    },
+    {
+        "caseid": 3930,
+        "content": " System ACPI Power State #0xff | D0 Power State | Asserted### Button #0xff | Power Button pressed | Asserted### System ACPI Power State #0xff | D3 Power State | Asserted### Power Supply #0x66 | Presence detected | Asserted### Power Supply #0x67 | Presence detected | Asserted",
+        "label": 3,
+        "part": 1
+    },
+    {
+        "caseid": 15772,
+        "content": "System Boot Initiated BIOS_Boot_UP | Initiated by power up | Asserted",
+        "label": 3,
+        "part": 1
+    },
+    {
+        "caseid": 16656,
+        "content": "Power Supply PS1 Status | Failure detected | Asserted",
+        "label": 3,
+        "part": 3
+    }
+]

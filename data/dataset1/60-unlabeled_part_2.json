@@ -1,0 +1,122 @@
+[
+    {
+        "caseid": 1340,
+        "content": " System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### OS Boot #0xe9 | boot completed - device not specified | Asserted### System ACPI Power State ACPI_PWR_Status | Legacy ON state | Asserted### System Event | Timestamp Clock Sync | Asserted### System Event #0x10 | Timestamp Clock Sync | Asserted### System ACPI Power State ACPI_PWR_Status | Legacy OFF state | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted### Processor #0xf5 | Configuration Error | Asserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 12625,
+        "content": " Management Subsys Health System_Health | Sensor access degraded or unavailable | Deasserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted### Management Subsys Health System_Health | Sensor access degraded or unavailable | Asserted### Processor CPU0_Status | Configuration Error | Asserted### Processor CPU0_Status | Uncorrectable machine check exception | Asserted### Processor CPU1_Status | Uncorrectable machine check exception | Deasserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 10135,
+        "content": " Processor CPU1_Status | Configuration Error | Asserted### Memory CPU1A0_DIMM_Stat | Uncorrectable ECC | Asserted### Memory CPU1A0_DIMM_Stat | Correctable ECC | Asserted### Processor CPU1_Status | Configuration Error | Deasserted### Memory CPU1A0_DIMM_Stat | Correctable ECC | Deasserted### Memory CPU1A0_DIMM_Stat | Uncorrectable ECC | Deasserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 8181,
+        "content": " Processor CPU1_Status | Configuration Error | Deasserted### System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted### Processor CPU1_Status | Configuration Error | Asserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 13704,
+        "content": " System Boot Initiated #0xe0 | Initiated by power up | Asserted### Processor #0x7c | Configuration Error | Asserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 2478,
+        "content": " Microcontroller #0xff |  | Deasserted### Unknown CPU0 MCERR |  | Deasserted### System Event #0xff | Timestamp Clock Sync | Asserted### System Boot Initiated | Initiated by power up | Asserted### Unknown CPU0 MCERR |  | Asserted### Power Unit Pwr Unit Status | Power off/<*> | Deasserted### Power Unit Pwr Unit Status | Power off/<*> | Asserted",
+        "label": 1,
+        "part": 2
+    },
+    {
+        "caseid": 13218,
+        "content": " Unknown #0x17 |  | Asserted### Memory #0xe2 | Correctable ECC | Asserted### Memory #0xe2 | Uncorrectable ECC | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 6923,
+        "content": " Memory #0xe2 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 3993,
+        "content": " Memory CPU0B1_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 10569,
+        "content": " Memory CPU1F0_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 13472,
+        "content": " System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Processor CPU0_Status | Configuration Error | Deasserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### Processor CPU0_Status | Configuration Error | Asserted### Memory CPU1A0_DIMM_Stat | Uncorrectable ECC | Asserted### Processor CPU0_Status | IERR | Asserted### Memory CPU1A0_DIMM_Stat | Uncorrectable ECC | Deasserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### Processor CPU1_Status | IERR | Deasserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 15194,
+        "content": " Memory #0xf9 | Correctable ECC | Asserted### Processor CPU_CATERR | State Asserted | Asserted### Unknown #0xc5 |  | Asserted### Memory #0xf9 | Uncorrectable ECC | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 9092,
+        "content": " Event Logging Disabled SEL_Status | Log area reset/<*> | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 12690,
+        "content": " Memory CPU0A1_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 2
+    },
+    {
+        "caseid": 199,
+        "content": " Power Supply PS2_Status | Power Supply AC lost | Deasserted### System Boot Initiated #0xe0 | Initiated by power up | Asserted### Power Supply PS2_Status | Presence detected | Asserted### Power Supply PS2_Status | Presence detected | Deasserted### Event Logging Disabled SEL_Status | Log area reset/<*> | Asserted### Power Supply PS2_Status | Power Supply AC lost | Asserted",
+        "label": 3,
+        "part": 2
+    },
+    {
+        "caseid": 6760,
+        "content": " Power Supply PS2_Status | Power Supply AC lost | Asserted### Power Supply PS2_Status | AC out-of-range, but present | Deasserted### Power Supply PS2_Status | Power Supply AC lost | Deasserted### Power Supply PS2_Status | AC out-of-range, but present | Asserted",
+        "label": 3,
+        "part": 2
+    },
+    {
+        "caseid": 7198,
+        "content": " Drive Slot NVME1_Stat | Drive Present | Asserted### Slot / Connector IB_Card_Stat | Identify Status | Deasserted### Slot / Connector M2_Card_Stat | Identify Status | Asserted### Drive Slot / Bay DISK56_Stat | Drive Present | Asserted### Slot / Connector IB_Card_Stat | Identify Status | Asserted### Event Logging Disabled SEL_Status | Log almost full | Asserted### Drive Slot DISK52_Stat | Drive Present | Deasserted### Drive Slot / Bay DISK56_Stat | Drive Present | Deasserted### Microcontroller BMC_Boot_Up | Device Enabled | Asserted### Slot / Connector PCIE_Card1_Stat | Identify Status | Asserted### Drive Slot / Bay DISK53_Stat | Drive Present | Deasserted### Slot/<*> IB_Card_Stat | Identify Status | Deasserted### Drive Slot / Bay NVME1_Stat | Drive Present | Asserted### Slot / Connector PCIE_Card2_Stat | Identify Status | Asserted### System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Processor CPU0_Status | Presence detected | Asserted### Slot/<*> OCP_Card_Stat | Identify Status | Asserted### Drive Slot / Bay DISK50_Stat | Drive Present | Asserted### Slot/<*> PCIE_Card2_Stat | Identify Status | Asserted### Button Button_Pressed | State Asserted | Asserted### Slot / Connector OCP_Card_Stat | Identify Status | Asserted### Slot/<*> M2_Card_Stat | Identify Status | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### Slot/<*> IB_Card_Stat | Identify Status | Asserted### Microcontroller/<*> BMC_Boot_Up | Device Enabled | Asserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### Power Supply PS1_Status | Presence detected | Asserted### Power Supply PS2_Status | Presence detected | Asserted### Drive Slot NVME2_Stat | Drive Present | Asserted### Slot/<*> PCIE_Card1_Stat | Identify Status | Asserted### Drive Slot / Bay NVME2_Stat | Drive Present | Asserted",
+        "label": 3,
+        "part": 2
+    },
+    {
+        "caseid": 368,
+        "content": " OS Boot BIOS_Boot_Up | boot completed - device not specified | Asserted### OS Critical Stop OS Status | OS graceful shutdown | Asserted### System ACPI Power State Power Status | Legacy OFF state | Asserted### System Boot Initiated System Restart | System Restart | Asserted### System ACPI Power State Power Status | Legacy ON state | Asserted",
+        "label": 3,
+        "part": 2
+    },
+    {
+        "caseid": 9678,
+        "content": " Processor CPU1_Status | Configuration Error | Deasserted### Memory CPU1B0_DIMM_Stat | Correctable ECC | Asserted### System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### Memory CPU1B0_DIMM_Stat | Uncorrectable ECC | Asserted### Processor CPU0_Status | Configuration Error | Asserted### Processor CPU1_Status | Configuration Error | Asserted### Memory CPU1B0_DIMM_Stat | Correctable ECC | Deasserted### Memory CPU1B0_DIMM_Stat | Uncorrectable ECC | Deasserted### Event Logging Disabled SEL_Status | Log almost full | Asserted",
+        "label": 3,
+        "part": 2
+    },
+    {
+        "caseid": 2363,
+        "content": " OS Boot #0xe0 | boot completed - device not specified | Asserted### System Boot Initiated #0xe0 | Initiated by hard reset | Asserted### Microcontroller BMC_Boot_Up | Device Enabled | Asserted### System ACPI Power State ACPI_PWR_Status | S4/<*> soft-off | Asserted### System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Power Supply PS2_Status | Presence detected | Asserted### Microcontroller/<*> BMC_Boot_Up | Device Enabled | Asserted### Microcontroller/<*> BMC_Boot_Up | Device Enabled",
+        "label": 3,
+        "part": 2
+    }
+]

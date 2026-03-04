@@ -1,0 +1,122 @@
+[
+    {
+        "caseid": 12479,
+        "content": " Processor CPU0_Status | Configuration Error | Asserted### Processor CPU0_Status | Configuration Error | Deasserted### System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted### Processor CPU1_Status | IERR | Asserted### Management Subsys Health System_Health | Sensor access degraded or unavailable | Asserted### Slot / Connector PCIE_Status | Fault Status | Asserted### Processor CPU1_Status | Configuration Error | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 10793,
+        "content": " System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### Unknown #0x17 |  | Asserted### Processor CPU_CATERR | State Asserted | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 4726,
+        "content": " System Boot Initiated BIOS_Boot_Up | Initiated by warm reset | Asserted### OS Boot #0xe9 | boot completed - device not specified | Asserted### Processor CPU_CATERR | State Asserted | Asserted### Unknown #0x17 |  | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 12428,
+        "content": " Unknown #0x17 |  | Asserted### Processor CPU_CATERR | State Asserted | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 1479,
+        "content": " Slot / Connector Port2 Link Down | Slot is Disabled | Asserted### Slot/<*> Port2 Link Down | Slot is Disabled | Asserted### Slot/<*> Port1 Link Down | Slot is Disabled | Deasserted### Slot / Connector Port2 Link Down | Slot is Disabled | Deasserted### Slot/<*> Port2 Link Down | Slot is Disabled | Deasserted### Slot / Connector Port1 Link Down | Slot is Disabled | Deasserted### Slot / Connector Port1 Link Down | Slot is Disabled | Asserted### Processor CPU1 Status | Uncorrectable machine check exception | Deasserted### Processor CPU1 Status | Uncorrectable machine check exception | Asserted### Processor CPU1 Status |  | Asserted### Processor CPU1 Status |  | Deasserted### Slot/<*> Port1 Link Down | Slot is Disabled | Asserted### System Boot Initiated SysRestart | System Restart | Asserted",
+        "label": 1,
+        "part": 1
+    },
+    {
+        "caseid": 9630,
+        "content": " Processor CPU_CATERR | State Asserted | Asserted### Memory #0xe2 | Uncorrectable ECC | Asserted### Unknown #0xc5 |  | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 14801,
+        "content": " Processor CPU_CATERR | State Asserted | Asserted### Memory #0xe2 | Uncorrectable ECC | Asserted### Unknown #0xc5 |  | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 413,
+        "content": " Memory #0xf9 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 14735,
+        "content": " Memory #0xf9 | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 14628,
+        "content": " Memory CPU0F0_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 1580,
+        "content": " System Event System Error | Undetermined system hardware failure | Deasserted### Memory DIMM130 | Uncorrectable ECC | Deasserted### System ACPI Power State ACPI State | S4/<*> soft-off | Asserted### System Boot Initiated SysRestart | System Restart | Asserted### Memory DIMM011 | Presence Detected | Asserted### Event Logging Disabled SEL Status | Log area reset/<*> | Asserted### Memory DIMM001 | Presence Detected | Asserted### System ACPI Power State ACPI State | S0/<*> working | Asserted### Memory DIMM130 | Presence Detected | Deasserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 8326,
+        "content": " Memory CPU1F0_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 7638,
+        "content": " Memory CPU0C0_DIMM_Stat | Correctable ECC | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 2767,
+        "content": " System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted### Processor CPU1_Status | Configuration Error | Deasserted### Memory CPU1D0_DIMM_Stat | Uncorrectable ECC | Deasserted### Memory CPU1D0_DIMM_Stat | Uncorrectable ECC | Asserted### Processor CPU1_Status | Configuration Error | Asserted",
+        "label": 2,
+        "part": 1
+    },
+    {
+        "caseid": 3629,
+        "content": " System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted",
+        "label": 3,
+        "part": 1
+    },
+    {
+        "caseid": 1859,
+        "content": " Memory DIMM031 | Presence Detected | Deasserted### Drive Slot DISK11 | Drive Fault | Asserted### Memory DIMM001 | Presence Detected | Asserted### Slot/<*> Port2 Link Down | Slot is Disabled | Asserted### Power Supply PS2 Status | Power Supply AC lost | Asserted### System ACPI Power State ACPI State | S0/<*> working | Asserted### System Boot Initiated SysRestart | System Restart | Asserted### Memory DIMM010 | Presence Detected | Deasserted### Drive Slot DISK8 | Drive Present | Deasserted### Button Power Button | Power Button pressed | Asserted### Slot/<*> Port1 Link Down | Slot is Disabled | Asserted### Drive Slot DISK8 | Drive Fault | Deasserted### System ACPI Power State ACPI State | S4/<*> soft-off | Asserted### Memory DIMM000 | Presence Detected | Deasserted### Button UID Button | State Asserted | Asserted### Slot/<*> Port2 Link Down | Slot is Disabled | Deasserted### Power Unit PS1 Presence | Device Present | Asserted### Microcontroller/<*> NTP Sync Failed | State Asserted | Asserted### Terminator LCD Presence | Device Absent | Asserted### Microcontroller/<*> BMC Boot Up | Device Enabled | Asserted### Boot Error Boot Error | No bootable media | Asserted### Power Supply PwrOk Sig. Drop | Failure detected | Asserted### Memory DIMM001 | Presence Detected | Deasserted### Add-in Card Riser2 Card | Device Present | Asserted### Memory DIMM010 | Presence Detected | Asserted### Power Unit PS2 Presence | Device Present | Asserted### Microcontroller/<*> BMC Time Hopping | State Asserted | Asserted### Processor CPU1 Status | Presence detected | Asserted### Drive Slot DISK11 | Drive Fault | Deasserted### Physical Security AreaIntrusion | General Chassis intrusion | Asserted### Drive Slot DISK10 | Drive Fault | Deasserted### Drive Slot DISK9 | Drive Present | Asserted### Memory DIMM130 | Presence Detected | Deasserted### Memory DIMM000 | Presence Detected | Asserted### Drive Slot DISK11 | Drive Present | Asserted### Processor CPU2 Status | Presence detected | Asserted### Drive Slot DISK10 | Drive Fault | Asserted### Drive Slot DISK9 | Drive Fault | Asserted### Memory DIMM100 | Presence Detected | Deasserted### Boot Error Boot Error | No bootable media | Deasserted",
+        "label": 3,
+        "part": 1
+    },
+    {
+        "caseid": 13122,
+        "content": " System ACPI Power State ACPI_PWR_Status | S0/<*> working | Asserted### Microcontroller BMC_Boot_Up | Device Enabled | Asserted### Power Supply PS2_Status | Presence detected | Asserted### Power Supply PS1_Status | Presence detected | Asserted",
+        "label": 3,
+        "part": 1
+    },
+    {
+        "caseid": 2324,
+        "content": " Drive Slot / Bay DISK58_Stat | Drive Fault | Asserted",
+        "label": 3,
+        "part": 1
+    },
+    {
+        "caseid": 13185,
+        "content": " Unknown Chassis_control |  | Asserted### OEM #0xff | OEM Specific | Asserted### Unknown #0xff |  | Asserted",
+        "label": 3,
+        "part": 1
+    },
+    {
+        "caseid": 3930,
+        "content": " System ACPI Power State #0xff | D0 Power State | Asserted### Button #0xff | Power Button pressed | Asserted### System ACPI Power State #0xff | D3 Power State | Asserted### Power Supply #0x66 | Presence detected | Asserted### Power Supply #0x67 | Presence detected | Asserted",
+        "label": 3,
+        "part": 1
+    }
+]
