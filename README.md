@@ -101,12 +101,13 @@ align-tuning/MLM-SLM
 └── vllm_sample_offline.py
 ```
 
+```  
 offline_training/SLM
 ├── SLM-load-stage4.py
 ├── SLM_vllm-zero-shot-cot-reason-stage4.py
 ├── run_trainer_stage4.py  
 └── vllm_sample_offline-stage4.py
-
+```  
 
 ## 🔗 Links
 - [Code]([https://github.com/IoT1220/HermesLog.git])
