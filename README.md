@@ -102,7 +102,7 @@ align-tuning/MLM-SLM
 ```
 
 ```  
-offline_training/SLM
+training/SLM
 ├── SLM-load-stage4.py
 ├── SLM_vllm-zero-shot-cot-reason-stage4.py
 ├── run_trainer_stage4.py  
