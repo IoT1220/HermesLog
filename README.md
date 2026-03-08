@@ -67,16 +67,16 @@ HermesLog/
 ```
 
 ```  
- Prompt-tuning/
-├── Gpt-4o_zeroshot-cot-stage1.py
+Prompt-tuning/LLM-MLM
+├── Gpt4o_zeroshot-cot_stage1.py
 ├── data
 │   └── output.json
-├── mistral_pseudo-fewshot-cot-stage2.py
+├── mistral_pseudo-fewshot-cot_stage2.py
 ├── monitor_gpu.sh
-├── output-stage1
+├── output_stage1
 │   ├── Gpt-4o.log
 │   └── Gpt-4o_results.json
-├── output-stage2-pseudo-fewshot-cot
+├── output_stage2-pseudo-fewshot-cot
 │   ├── mistral.log
 │   └── mistral_results.json
 ├── README.md
@@ -86,22 +86,26 @@ HermesLog/
 
 ```
 (base) ➜  dataset ls
-Gpt-4o_zeroshot-cot.py                   output:config-stage1
-mistral_pseudo-fewshot-cot-stage2.py     output:vllm_sample_offline-stage2
-monitor_gpu.sh                           tree.txt
+Gpt4o_zeroshot-cot.py                              output:config-stage1
+mistral_pseudo-fewshot-cot-stage2.py               output:vllm_sample_offline-stage2
+monitor_gpu.sh                                     tree.txt
 output-stage2
 ```
 
 ```  
-align-tuning/
-├── config.py
-├── vllm_sample_offline.py
-├── make_align-stage3.py                  output:make_align-stage3 
-├── run_train.py                          output:run_train-stage3            
+align-tuning/MLM-SLM
+├── config_stage2.py
+├── mistral_vllm_sample_offline-tuning_stage2.py
+├── make_align-stage3.py                             output:make_align-stage3 
+├── run_train_stage3.py                              output:run_train-stage3            
 └── vllm_sample_offline.py
 ```
 
-
+offline_training/SLM
+├── SLM-load-stage4.py
+├── SLM_vllm-zero-shot-cot-reason-stage4.py
+├── run_trainer_stage4.py  
+└── vllm_sample_offline-stage4.py
 
 
 ## 🔗 Links
