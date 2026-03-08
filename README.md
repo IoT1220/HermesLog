@@ -71,7 +71,7 @@ Prompt-tuning/LLM-MLM
 ├── Gpt4o_zeroshot-cot_stage1.py
 ├── data
 │   └── output.json
-├── mistral_pseudo-fewshot-cot_stage2.py
+├── Mistral_pseudo-fewshot-cot_stage2.py
 ├── monitor_gpu.sh
 ├── output_stage1
 │   ├── Gpt-4o.log
@@ -87,7 +87,7 @@ Prompt-tuning/LLM-MLM
 ```
 (base) ➜  dataset ls
 Gpt4o_zeroshot-cot.py                              output:config-stage1
-mistral_pseudo-fewshot-cot-stage2.py               output:vllm_sample_offline-stage2
+Mistral_pseudo-fewshot-cot-stage2.py               output:vllm_sample_offline-stage2
 monitor_gpu.sh                                     tree.txt
 output-stage2
 ```
@@ -95,17 +95,17 @@ output-stage2
 ```  
 align-tuning/MLM-SLM
 ├── config_stage2.py
-├── mistral_vllm_sample_offline-tuning_stage2.py
-├── make_align-stage3.py                             output:make_align-stage3 
-├── run_train_stage3.py                              output:run_train-stage3            
-└── vllm_sample_offline.py
+├── Mistral_vllm-sample-offline-tuning_stage2.py
+├── make-align_stage3.py                             output:make_align-stage3 
+├── Run-train_stage3.py                              output:run_train-stage3            
+└── vllm-sample-offline.py
 ```
 
 ```  
 training/SLM
-├── SLM-load-stage4.py
-├── SLM_vllm-zero-shot-cot-reason-stage4.py
-├── run_trainer_stage4.py  
+├── SLM_load_stage4.py
+├── SLM_vllm-zero-shot-cot-reason_stage4.py
+├── Run_trainer_stage4.py  
 └── vllm_sample_offline-stage4.py
 ```  
 
